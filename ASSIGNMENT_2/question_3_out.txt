@@ -1,0 +1,8 @@
+Type in a string to check if it's a palindrome: 
+it's a palindrome.
+Type in a string to check if it's a palindrome: 
+it's a palindrome.
+Type in a string to check if it's a palindrome: 
+not a palindrome.
+Type in a string to check if it's a palindrome: 
+You have exited the program.
