@@ -1,0 +1,217 @@
+Welcome to N-Queens. Your one stop shop for finding all solutions in an N-row N-column checkerboard!
+
+How big is the board?
+
+There are 0 solutions.
+How big is the board?
+
+There are 0 solutions.
+How big is the board?
+
+X  Q  X  X  
+X  X  X  Q  
+Q  X  X  X  
+X  X  Q  X  
+
+X  X  Q  X  
+Q  X  X  X  
+X  X  X  Q  
+X  Q  X  X  
+
+X  X  Q  X  
+Q  X  X  X  
+X  X  X  Q  
+X  Q  X  X  
+
+X  Q  X  X  
+X  X  X  Q  
+Q  X  X  X  
+X  X  Q  X  
+
+There are 4 solutions.
+How big is the board?
+
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+X  Q  X  X  X  
+X  X  X  Q  X  
+
+X  Q  X  X  X  
+X  X  X  Q  X  
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+
+X  X  Q  X  X  
+Q  X  X  X  X  
+X  X  X  Q  X  
+X  Q  X  X  X  
+X  X  X  X  Q  
+
+X  X  X  Q  X  
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+X  Q  X  X  X  
+
+X  X  Q  X  X  
+Q  X  X  X  X  
+X  X  X  Q  X  
+X  Q  X  X  X  
+X  X  X  X  Q  
+
+X  X  X  Q  X  
+X  Q  X  X  X  
+X  X  X  X  Q  
+X  X  Q  X  X  
+Q  X  X  X  X  
+
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+X  Q  X  X  X  
+X  X  X  Q  X  
+
+Q  X  X  X  X  
+X  X  X  Q  X  
+X  Q  X  X  X  
+X  X  X  X  Q  
+X  X  Q  X  X  
+
+X  Q  X  X  X  
+X  X  X  Q  X  
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+
+Q  X  X  X  X  
+X  X  X  Q  X  
+X  Q  X  X  X  
+X  X  X  X  Q  
+X  X  Q  X  X  
+
+X  Q  X  X  X  
+X  X  X  X  Q  
+X  X  Q  X  X  
+Q  X  X  X  X  
+X  X  X  Q  X  
+
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+X  Q  X  X  X  
+X  X  X  Q  X  
+
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+X  Q  X  X  X  
+X  X  X  Q  X  
+
+Q  X  X  X  X  
+X  X  X  Q  X  
+X  Q  X  X  X  
+X  X  X  X  Q  
+X  X  Q  X  X  
+
+Q  X  X  X  X  
+X  X  X  Q  X  
+X  Q  X  X  X  
+X  X  X  X  Q  
+X  X  Q  X  X  
+
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+X  Q  X  X  X  
+X  X  X  Q  X  
+
+X  Q  X  X  X  
+X  X  X  Q  X  
+Q  X  X  X  X  
+X  X  Q  X  X  
+X  X  X  X  Q  
+
+There are 17 solutions.
+How big is the board?
+
+X  Q  X  X  X  X  
+X  X  X  Q  X  X  
+X  X  X  X  X  Q  
+Q  X  X  X  X  X  
+X  X  Q  X  X  X  
+X  X  X  X  Q  X  
+
+There are 1 solutions.
+How big is the board?
+
+X  X  X  X  X  Q  X  
+Q  X  X  X  X  X  X  
+X  X  Q  X  X  X  X  
+X  X  X  X  Q  X  X  
+X  X  X  X  X  X  Q  
+X  Q  X  X  X  X  X  
+X  X  X  Q  X  X  X  
+
+Q  X  X  X  X  X  X  
+X  X  X  X  Q  X  X  
+X  Q  X  X  X  X  X  
+X  X  X  X  X  Q  X  
+X  X  Q  X  X  X  X  
+X  X  X  X  X  X  Q  
+X  X  X  Q  X  X  X  
+
+X  Q  X  X  X  X  X  
+X  X  X  Q  X  X  X  
+X  X  X  X  X  Q  X  
+Q  X  X  X  X  X  X  
+X  X  Q  X  X  X  X  
+X  X  X  X  Q  X  X  
+X  X  X  X  X  X  Q  
+
+X  Q  X  X  X  X  X  
+X  X  X  X  Q  X  X  
+Q  X  X  X  X  X  X  
+X  X  X  Q  X  X  X  
+X  X  X  X  X  X  Q  
+X  X  Q  X  X  X  X  
+X  X  X  X  X  Q  X  
+
+Q  X  X  X  X  X  X  
+X  X  Q  X  X  X  X  
+X  X  X  X  Q  X  X  
+X  X  X  X  X  X  Q  
+X  Q  X  X  X  X  X  
+X  X  X  Q  X  X  X  
+X  X  X  X  X  Q  X  
+
+X  Q  X  X  X  X  X  
+X  X  X  X  Q  X  X  
+X  X  X  X  X  X  Q  
+X  X  X  Q  X  X  X  
+Q  X  X  X  X  X  X  
+X  X  Q  X  X  X  X  
+X  X  X  X  X  Q  X  
+
+Q  X  X  X  X  X  X  
+X  X  Q  X  X  X  X  
+X  X  X  X  Q  X  X  
+X  X  X  X  X  X  Q  
+X  Q  X  X  X  X  X  
+X  X  X  Q  X  X  X  
+X  X  X  X  X  Q  X  
+
+Q  X  X  X  X  X  X  
+X  X  Q  X  X  X  X  
+X  X  X  X  Q  X  X  
+X  X  X  X  X  X  Q  
+X  Q  X  X  X  X  X  
+X  X  X  Q  X  X  X  
+X  X  X  X  X  Q  X  
+
+There are 8 solutions.
+How big is the board?
+
+You have exited the program
+
