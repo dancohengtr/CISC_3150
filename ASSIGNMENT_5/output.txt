@@ -1,0 +1,6 @@
+inside / number of dots: 
+0.61684718
+
+first ratio: 
+0.5707963267948966
+
