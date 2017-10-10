@@ -1,0 +1,40 @@
+a)	Woof, woof, woof!
+
+
+
+b)
+	I’m a cat, go away!
+
+c)
+
+	!!!
+
+d)
+
+
+	!!
+e)
+
+	woof!
+
+f)
+
+	Come here, kitty ? … Don’t waste my time.
+
+
+
+g)
+	returns an error
+	
+	
+	
+h)
+	
+	four
+
+
+	
+i)
+
+
+	Woof, woof, woof!
