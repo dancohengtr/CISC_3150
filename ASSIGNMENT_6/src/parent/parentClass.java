@@ -1,3 +1,5 @@
+package parent;
+
 
 public class parentClass {
 	

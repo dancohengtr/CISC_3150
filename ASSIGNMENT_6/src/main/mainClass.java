@@ -1,3 +1,7 @@
+package main;
+
+import parent.parentClass;
+
 
 public class mainClass extends parentClass {
 	
