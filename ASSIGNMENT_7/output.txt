@@ -1,0 +1,5 @@
+Type in an operation(s) to perform: 
+That's not an operand!
+Please don't divide by zero!
+That's not an operand!
+Let's type in a number next time.
