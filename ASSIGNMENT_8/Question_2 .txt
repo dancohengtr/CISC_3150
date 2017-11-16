@@ -1,0 +1,4 @@
+Once you click into the Command Prompt window, the console host will no longer allow output to be written. The application itself keeps running, but nothing is written to the screen.
+
+As long as there is only a single thread, this is basically the same thing as having your process frozen. As the single thread tries to write some output before doing more work.
+

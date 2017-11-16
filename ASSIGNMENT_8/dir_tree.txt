@@ -1,0 +1,2534 @@
+dancohengtr:
+|---.android
+|   |---adbkey
+|   |---adbkey.pub
+|   |---analytics.settings
+|   |---avd
+|   |---build-cache
+|   |   |---1fe8150a4620bd49b386af9306481e70a0deb1d5
+|   |   |---25c138c1daa3da7ce23e43abec76491fbe0d006c
+|   |   |---263be19f377f34189225a10318b22aa8d0e47b28
+|   |   |---2f9b42d5e34a456e14b1f05a8c1ecf949ce9a45f
+|   |   |---3fe98cde2996a440830ed985ad928e06a15c1a46
+|   |   |---5bb34b61916f84db9f9b4340fceefe84e3bf0f5b
+|   |   |---68e3e62c4e1fcac40072163c3360bcbd786b1fd9
+|   |   |---6d1606b8f4354c792376fc5308fa8eb8b6d7fa47
+|   |   |---7326fbb6be7055926746917d140e59e5c06e6301
+|   |   |---77124747d0c8805591bc87af81fee0cb535d6a90
+|   |   |---7cfb47455bf19bfd9be92d60ee765180801e4d78
+|   |   |---7d5b3c5e2d432894fbf492261669063e3c6444f4
+|   |   |---7e78fa3186751752eb2710d6162e2463d83e4dcb
+|   |   |---85f8d50cfe9182722d6c0a8eeaae50649efb9840
+|   |   |---87d3ae1bd1c15226062ac649e2e75dc1714a30fe
+|   |   |---8939c75aaff444ad5e22c721998f0f26c7376cfa
+|   |   |---a0f365dea275a81a521d935253987da1bfd8f19a
+|   |   |---a44fdeab36711f16db777f13d2118c1818ab8cae
+|   |   |---a6fc44f68fcb8ce86bee8a511eb9dc5fab382954
+|   |   |---ad1de371a4c52aec7cba6177f72645f7b1b8963d
+|   |   |---aed47bf9b2bdc1c768667f7151b6018b627dcd79
+|   |   |---b36259924c89a9f34bee084114fec707a8ba50f7
+|   |   |---c1143a3bf3362dea22e0c788fe82ca377e32e0f7
+|   |   |---c18952c2e99d366f48ad29a3726fc5831186f862
+|   |   |---c6d2189b7daddb8e1774057013349bfd2e2f994a
+|   |   |---c85d90be847957c55f9b8566f985dc4a780d5dec
+|   |   |---cfd20e390963a491299e058b5dc9f5207d01a766
+|   |   |---e6f44c429eefbf4130aa59084e4df3699e788b40
+|   |   |---eb602a215a9e7bcc3383cc2fc7724fb37b5f1e38
+|   |   |---ec290845ed24172c6acddfd369fe1101a464467b
+|   |   |---eea078d2a285e57dec5f61052f7d9fe1f33142b3
+|   |   |---ef4a98eb296482f7d83fc5e3d3b988ea1763cd63
+|   |   |---f1c21ad849121320ae01a32a7a4ebdb748cde5a4
+|   |   |---f652a2189aeefe044cd285c76ec8e3e80b92479a
+|   |---debug.keystore
+|   |---uid.txt
+|---.bash_history
+|---.bash_profile
+|---.cache
+|   |---bower
+|   |   |---packages
+|   |   |---registry
+|   |---fontconfig
+|   |   |---0f0db7876307790c19e1f91eb9095080-le64.cache-3
+|   |   |---1487dd4aecf3164c4a11193169052443-le64.cache-3
+|   |   |---49aa604a5ac92994756d3008e408245c-le64.cache-3
+|   |   |---558352270fb122ca08359d23b5a778d4-le64.cache-3
+|   |   |---5dc9fcf026e07a49c5f91c19054b9930-le64.cache-3
+|   |   |---79652363633577d7d713baab7f54ad8c-le64.cache-3
+|   |   |---7eca9aacfe27d86aa81cea7f1a8bd90a-le64.cache-3
+|   |   |---a1a78d9c18cd095d3829c724810e6ffb-le64.cache-3
+|   |   |---ba022efc551c75e21c690774bbcf5304-le64.cache-3
+|   |   |---bc06c1eea3e636f72101cafc3fb39508-le64.cache-3
+|   |   |---c5f5d66d15c24edc3e863c27139db87e-le64.cache-3
+|   |   |---CACHEDIR.TAG
+|   |   |---f0f76015ef54ea3f0895465d59f141ef-le64.cache-3
+|   |   |---f22309b238134d3cca63435f528976cd-le64.cache-3
+|---.CFUserTextEncoding
+|---.cmake
+|   |---packages
+|   |   |---glm
+|---.config
+|   |---configstore
+|   |   |---bower-github.json
+|   |   |---insight-cordova.json
+|   |   |---insight-phonegap.json
+|   |   |---update-notifier-bower.json
+|   |   |---update-notifier-cordova.json
+|   |   |---update-notifier-nodemon.json
+|   |   |---update-notifier-npm.json
+|   |   |---update-notifier-phonegap.json
+|   |---filezilla
+|   |   |---filezilla.xml
+|   |   |---layout.xml
+|   |   |---lockfile
+|   |   |---queue.sqlite3
+|   |   |---recentservers.xml
+|   |---git
+|   |   |---ignore
+|   |---menus
+|   |   |---applications-merged
+|   |---xbuild
+|   |   |---pkgconfig-cache-2.xml
+|---.cordova
+|   |---lib
+|   |   |---npm_cache
+|   |---node_modules
+|   |   |---phonegap-template-hello-world
+|---.cups
+|   |---lpoptions
+|---.d5w2rc
+|---.dropbox
+|   |---dropbox.pid
+|   |---finderplugin
+|   |   |---l
+|   |   |---toolbar_index
+|   |---instance1
+|   |   |---config.db
+|   |   |---config.dbx
+|   |   |---dropbox.pid
+|   |   |---host.dbx
+|   |   |---hostkeys
+|   |   |---l
+|   |   |---unlink.db
+|   |---instance_db
+|   |   |---hostkeys
+|   |   |---instance.dbx
+|   |---l
+|   |---logs
+|   |   |---0
+|   |   |---1
+|   |---unlink.db
+|---.DS_Store
+|---.eclipse
+|   |---org.eclipse.oomph.p2
+|   |   |---agents.info
+|   |   |---cache
+|   |---org.eclipse.oomph.setup
+|   |   |---cache
+|   |   |---setups
+|   |---org.eclipse.recommenders
+|   |   |---anonymousId
+|   |---org.eclipse.recommenders.models.rcp
+|   |   |---repository
+|---.emacs.d
+|   |---auto-save-list
+|---.flexlmrc
+|---.flux
+|   |---BitterSweet II
+|   |---flux.xml
+|   |---SampleGrabber v3
+|   |---SampleGrabberV3
+|   |   |---Options.xml
+|   |   |---Preferences.xml
+|   |   |---Skin.xml
+|   |   |---UI.xml
+|   |---Stereo Tool
+|---.fontconfig
+|   |---0f0db7876307790c19e1f91eb9095080-le32d4.cache-3
+|   |---1487dd4aecf3164c4a11193169052443-le32d4.cache-3
+|   |---49aa604a5ac92994756d3008e408245c-le32d4.cache-3
+|   |---558352270fb122ca08359d23b5a778d4-le32d4.cache-3
+|   |---5dc9fcf026e07a49c5f91c19054b9930-le32d4.cache-3
+|   |---79652363633577d7d713baab7f54ad8c-le32d4.cache-3
+|   |---a1a78d9c18cd095d3829c724810e6ffb-le32d4.cache-3
+|   |---ba022efc551c75e21c690774bbcf5304-le32d4.cache-3
+|   |---bc06c1eea3e636f72101cafc3fb39508-le32d4.cache-3
+|   |---c5f5d66d15c24edc3e863c27139db87e-le32d4.cache-3
+|   |---f0f76015ef54ea3f0895465d59f141ef-le32d4.cache-3
+|   |---f22309b238134d3cca63435f528976cd-le32d4.cache-3
+|---.gitconfig
+|---.gradle
+|   |---caches
+|   |   |---3.3
+|   |   |---jars-2
+|   |   |---modules-2
+|   |---daemon
+|   |   |---3.3
+|   |---native
+|   |   |---23
+|   |   |---jansi
+|   |---wrapper
+|   |   |---dists
+|---.idlerc
+|   |---recent-files.lst
+|---.lesshst
+|---.local
+|   |---share
+|   |   |---applications
+|   |   |---bower
+|   |   |---desktop-directories
+|   |   |---mime
+|   |   |---Unity
+|---.maplesoft
+|---.mono
+|   |---registry
+|   |   |---CurrentUser
+|   |   |---last-btime
+|---.npm
+|   |---_cacache
+|   |   |---content-v2
+|   |   |---index-v5
+|   |   |---tmp
+|   |---_locks
+|   |---_logs
+|   |   |---2017-10-17T15_36_44_461Z-debug.log
+|   |   |---2017-10-17T20_11_59_587Z-debug.log
+|   |   |---2017-10-17T20_14_41_149Z-debug.log
+|   |   |---2017-10-18T21_26_19_674Z-debug.log
+|   |   |---2017-10-18T21_27_06_770Z-debug.log
+|   |   |---2017-10-24T12_31_18_618Z-debug.log
+|   |   |---2017-11-04T00_37_07_939Z-debug.log
+|   |---anonymous-cli-metrics.json
+|   |---phonegap-template-hello-world
+|   |   |---4.0.3
+|   |---registry.npmjs.org
+|   |   |---cordova-browser
+|   |   |---cordova-plugin-battery-status
+|   |   |---cordova-plugin-camera
+|   |   |---cordova-plugin-compat
+|   |   |---cordova-plugin-console
+|   |   |---cordova-plugin-contacts
+|   |   |---cordova-plugin-device
+|   |   |---cordova-plugin-device-motion
+|   |   |---cordova-plugin-device-orientation
+|   |   |---cordova-plugin-dialogs
+|   |   |---cordova-plugin-file
+|   |   |---cordova-plugin-file-transfer
+|   |   |---cordova-plugin-geolocation
+|   |   |---cordova-plugin-globalization
+|   |   |---cordova-plugin-inappbrowser
+|   |   |---cordova-plugin-media
+|   |   |---cordova-plugin-media-capture
+|   |   |---cordova-plugin-network-information
+|   |   |---cordova-plugin-splashscreen
+|   |   |---cordova-plugin-statusbar
+|   |   |---cordova-plugin-vibration
+|   |   |---cordova-plugin-whitelist
+|   |   |---phonegap-template-hello-world
+|---.ondmd1650
+|---.ondmd1651
+|---.ondmd331
+|---.ondmd336
+|---.ondmd47183
+|---.ondmd476
+|---.ondmd954
+|---.openvr
+|   |---openvrpaths.vrpath
+|---.oracle_jre_usage
+|   |---613bcfb3a06ef613.timestamp
+|   |---fb74755182c6e1b0.timestamp
+|---.osbuddy
+|   |---cursors
+|   |---data
+|   |   |---map
+|   |---dev
+|   |   |---client.fpack
+|   |   |---client.fpack.hash
+|   |---gallery
+|   |   |---data.json
+|   |---lib
+|   |   |---commons-http.fpack
+|   |   |---commons-io.fpack
+|   |   |---commons-lang.fpack
+|   |   |---easymock.fpack
+|   |   |---gson.fpack
+|   |   |---guava.fpack
+|   |   |---hamcrest.fpack
+|   |   |---jsoup.fpack
+|   |   |---junit.fpack
+|   |   |---laf-plugin.fpack
+|   |   |---laf-widget.fpack
+|   |   |---logback.fpack
+|   |   |---OSBuddy.fpack
+|   |   |---swing-layout.fpack
+|   |   |---twitter4j.fpack
+|   |---login.uuid
+|   |---logs
+|   |   |---Client_Errors.log
+|   |---orion.ini
+|   |---screenshots
+|   |---settings
+|   |   |---Altar Locator.settings
+|   |   |---Attack Style.settings
+|   |   |---Authenticator.settings
+|   |   |---Clan View.settings
+|   |   |---Client Performance.settings
+|   |   |---Cursor Selector.settings
+|   |   |---Default Client Size.settings
+|   |   |---Experience Drop.settings
+|   |   |---Farming.settings
+|   |   |---Legacy Treasure Trail Assistant.settings
+|   |   |---MouseKeys.settings
+|   |   |---notepad.txt
+|   |   |---RS3-style F-keys.settings
+|   |   |---Screenshot Gallery.settings
+|   |   |---Slayer.settings
+|   |   |---Trade Notifier.settings
+|   |   |---Virtual Levels.settings
+|   |   |---Waterskin.settings
+|   |---updates
+|---.p2
+|   |---org.eclipse.equinox.p2.engine
+|   |   |---profileRegistry
+|   |---pools.info
+|   |---profiles.info
+|---.Rhistory
+|---.ssh
+|   |---github_rsa
+|   |---github_rsa.pub
+|   |---id_rsa
+|   |---id_rsa.pub
+|   |---known_hosts
+|---.subversion
+|   |---auth
+|   |   |---svn.simple
+|   |   |---svn.ssl.client-passphrase
+|   |   |---svn.ssl.server
+|   |   |---svn.username
+|   |---config
+|   |---README.txt
+|   |---servers
+|---.Trash
+|---.viminfo
+|---.vscode
+|   |---extensions
+|   |   |---christian-kohler.path-intellisense-1.4.2
+|   |   |---codezombiech.gitignore-0.5.0
+|   |   |---donjayamanne.python-0.7.0
+|   |   |---dzannotti.vscode-babel-coloring-0.0.4
+|   |   |---ecmel.vscode-html-css-0.1.8
+|   |   |---eg2.tslint-1.0.14
+|   |   |---formulahendry.auto-close-tag-0.5.3
+|   |   |---georgewfraser.vscode-javac-0.0.47
+|   |   |---HookyQR.beautify-1.1.1
+|   |   |---humao.rest-client-0.16.0
+|   |   |---jakethashi.vscode-angular2-emmet-2.0.3
+|   |   |---jakob101.relativepath-1.0.0
+|   |   |---lonefy.vscode-js-css-html-formatter-0.2.3
+|   |   |---lukehoban.go-0.6.67
+|   |   |---ms-mssql.mssql-1.2.0
+|   |   |---ms-mssql.mssql-1.2.1
+|   |   |---ms-vscode.atom-keybindings-3.0.2
+|   |   |---ms-vscode.cpptools-0.14.0
+|   |   |---ms-vscode.cpptools-0.14.2
+|   |   |---ms-vscode.csharp-1.12.1
+|   |   |---ms-vscode.csharp-1.13.0
+|   |   |---ms-vscode.powershell-1.5.0
+|   |   |---ms-vscode.sublime-keybindings-3.0.2
+|   |   |---msjsdiag.debugger-for-chrome-3.5.0
+|   |   |---rebornix.ruby-0.15.0
+|   |   |---robinbentley.sass-indented-1.4.5
+|   |   |---TwentyChung.jsx-0.0.1
+|   |   |---vscodevim.vim-0.10.2
+|   |   |---Zignd.html-css-class-completion-1.12.0
+|   |   |---Zignd.html-css-class-completion-1.14.0
+|---.Xauthority
+|---AndroidStudioProjects
+|   |---My3630App
+|   |   |---.gitignore
+|   |   |---.gradle
+|   |   |---.idea
+|   |   |---app
+|   |   |---build
+|   |   |---build.gradle
+|   |   |---gradle
+|   |   |---gradle.properties
+|   |   |---gradlew
+|   |   |---gradlew.bat
+|   |   |---local.properties
+|   |   |---My3630App.iml
+|   |   |---settings.gradle
+|---Applications
+|   |---.DS_Store
+|   |---Chrome Apps.localized
+|   |   |---.DS_Store
+|   |   |---.localized
+|   |   |---Default clhhggbfdinjmjhajaheehoeibfljjno.app
+|   |   |---Default fhbjgbiflinjbdggehcddcbncdddomop.app
+|   |   |---Icon
+|   |---Sid Meier's Civilization V.app
+|   |   |---Contents
+|   |---Team Fortress 2.app
+|   |   |---Contents
+|   |---The Sims 3.localized
+|   |   |---.DS_Store
+|   |   |---.localized
+|   |   |---EULA.rtf
+|   |   |---The Sims3.app
+|   |   |---The Sims™ 3 High-End Loft Stuff
+|   |   |---The Sims™ 3 High-End Loft Stuff Readme.txt
+|   |   |---The Sims™ 3 Late Night
+|   |   |---The Sims™ 3 Late Night Readme.txt
+|   |   |---The Sims™ 3 Pets
+|   |   |---The Sims™ 3 Pets readme.txt
+|   |   |---The Sims™ 3 Readme.txt
+|   |   |---The Sims™ 3 Seasons
+|   |   |---The Sims™ 3 Seasons readme.txt
+|   |   |---The Sims™ 3 Uninstaller.app
+|---Creative Cloud Files
+|   |---Icon
+|---dancohengtr@gmail.com Creative Cloud Files
+|   |---Icon
+|---Desktop
+|   |---.559099A7C7C0B10C
+|   |   |---OTRMSHSM418GU
+|   |---.DeA3IFIXhxA=
+|   |   |---GRY0a4+bl+qbyg==
+|   |   |---SC0D6I1OQNJTL
+|   |---.DS_Store
+|   |---.komodotools
+|   |   |---.DS_Store
+|   |   |---Projects
+|   |---.localized
+|   |---CONTRST IR.syx
+|   |---CONTRST IR.wav
+|   |---Desktop folder
+|   |   |---.DS_Store
+|   |   |---KICK.license
+|   |---me.jpg
+|   |---OF Guitar Pro's
+|   |   |---A Swarm of Gray Cadavers.gpx
+|   |   |---A Swarm Of Gray Cadavers_DanEDIT.gpx
+|   |   |---An Absolute Eclipse.gpx
+|   |   |---Fermi Paradox.gp5
+|   |   |---Fermi Paradox.gpx
+|   |   |---Fermi Paradox.txt
+|   |   |---not dillinger escape blackmetal.gpx
+|   |   |---not djent at all.gp5
+|   |   |---not djent at all.gpx
+|   |   |---not djent at all.mid
+|   |   |---OF Dan Song 3.gpx
+|   |   |---OF Dan Song 3.mid
+|   |   |---OF Dan Song 3.txt
+|   |   |---OFDanSong2-1.mid
+|   |   |---OFDANSONG2FINAL.gpx
+|   |   |---OFDANSONG2FINAL.mid
+|   |   |---Steve OF 2.gp5
+|   |   |---Steve OF 2.gpx
+|   |   |---The Astronaut.gpx
+|   |   |---The Astronaut.mid
+|   |---Steve Keys
+|   |   |---.DS_Store
+|   |   |---Black Metal Bill
+|   |   |---DAN LONG SONG
+|   |   |---Instrumental
+|   |   |---Not Djent At All
+|   |   |---Not Take The Time
+|   |   |---OF OPENING TRACK:Dan Short Song
+|   |   |---The Astronaut
+|   |   |---Titan.newerbass
+|---Documents
+|   |---.1B75023CF903003E
+|   |   |---0EF6A7968FB1EA12
+|   |---.3DBAFAEDD8937BA498
+|   |   |---3AA31619EEC2F82C9B
+|   |   |---KFF5W7E4N5WX
+|   |---.DS_Store
+|   |---.git
+|   |   |---branches
+|   |   |---COMMIT_EDITMSG
+|   |   |---config
+|   |   |---description
+|   |   |---HEAD
+|   |   |---hooks
+|   |   |---index
+|   |   |---info
+|   |   |---logs
+|   |   |---objects
+|   |   |---refs
+|   |---.localized
+|   |---.ZmX_B6e+Cx3b9kyv
+|   |   |---1ALJ5HXMNVDWZ
+|   |---3630
+|   |   |---Chapter1.pptx
+|   |   |---Chapter10.pptx
+|   |   |---Chapter11.pptx
+|   |   |---Chapter2.pptx
+|   |   |---Chapter3.ppt
+|   |   |---Chapter4.pptx
+|   |   |---Chapter5.pptx
+|   |   |---Exam 1 study sheet.docx
+|   |   |---Project 1.ppsx
+|   |   |---Project 1.pptx
+|   |   |---Project 1_Final.ppsx
+|   |   |---Project 1_Final.pptx
+|   |---3660 Unity
+|   |   |---CISC_3660_Ibi Elementorum
+|   |   |---Game 1
+|   |---[MR] 960 Grid Muse Template
+|   |   |---.DS_Store
+|   |   |---960 Grid.muse
+|   |   |---Images
+|   |   |---pinkroomrecording.com.muse
+|   |   |---Thank You.pdf
+|   |---cisc3620
+|   |   |---.DS_Store
+|   |   |---labs
+|   |   |---review
+|   |---CISC_3150
+|   |   |---.classpath
+|   |   |---.DS_Store
+|   |   |---.git
+|   |   |---.project
+|   |   |---ASSIGNMENT_1
+|   |   |---ASSIGNMENT_2
+|   |   |---ASSIGNMENT_3
+|   |   |---ASSIGNMENT_4
+|   |   |---ASSIGNMENT_5
+|   |   |---ASSIGNMENT_6
+|   |   |---ASSIGNMENT_7
+|   |   |---ASSIGNMENT_8
+|   |   |---README.md
+|   |---Daniel Cohen CL .docx
+|   |---Daniel Cohen CL .pdf
+|   |---Daniel S Cohen Resume AUDIO.docx
+|   |---Daniel S Cohen Resume AUDIO.pdf
+|   |---Daniel S Cohen Resume IT.docx
+|   |---Daniel S Cohen Resume IT.pdf
+|   |---Electronic Arts
+|   |   |---.DS_Store
+|   |   |---The Sims 3
+|   |---fonts
+|   |   |---.DS_Store
+|   |   |---Bangers
+|   |   |---Exo_2
+|   |   |---Francois_One
+|   |   |---Libre_Baskerville
+|   |   |---Orbitron
+|   |   |---Righteous
+|   |   |---Shadows_Into_Light
+|   |   |---Sigmar_One
+|   |---Fractal Audio
+|   |   |---Axe-Edit
+|   |---Home Depot Cover Letter.docx
+|   |---Howler
+|   |   |---howler.js
+|   |---Interactive_svg
+|   |   |---.bithoundrc
+|   |   |---.DS_Store
+|   |   |---config.xml
+|   |   |---CONTRIBUTING.md
+|   |   |---hooks
+|   |   |---platforms
+|   |   |---plugins
+|   |   |---README.md
+|   |   |---www
+|   |---iZotope
+|   |   |---.DS_Store
+|   |   |---Insight
+|   |   |---Ozone 5
+|   |   |---Ozone 7
+|   |---iZotope Alloy Presets
+|   |   |---Basic Channel Strips
+|   |   |---Bass
+|   |   |---Broadcast and Podcast
+|   |   |---Drum (Mixed and Loops)
+|   |   |---Drums (Individual)
+|   |   |---Guitar
+|   |   |---Orchestral and Ensemble
+|   |   |---Piano and Keys
+|   |   |---Post Production
+|   |   |---Special Effects
+|   |   |---Synths and Pads
+|   |   |---Utility
+|   |   |---Vocals
+|   |---iZotope Nectar
+|   |   |---Captured Pitch Data
+|   |   |---Genre and Style
+|   |   |---Presets
+|   |---Keygens
+|   |   |---.DS_Store
+|   |   |---Banks-r370.gpbank
+|   |   |---Drumagog keygen_install.log
+|   |   |---EZ Mix keygen.app
+|   |   |---Izotope Alloy Keygen 2.app
+|   |   |---Izotope Alloy Keygen.app
+|   |   |---VSTLord.app
+|   |---Kseniyas thing
+|   |   |---.DS_Store
+|   |   |---101838-OME363-129.jpg
+|   |   |---fallingsnow_v6.js
+|   |   |---index.html
+|   |   |---style.css
+|   |---Licenses
+|   |   |---.DS_Store
+|   |   |---iPod Software License.rtf
+|   |   |---LICENSE.pdf
+|   |   |---Nectar Keygen.app
+|   |   |---Nomad Factory EXE.app
+|   |   |---Pro Tools 8 Le Serial.rtf
+|   |   |---ssd4-platinum_ssd_SSD 4_Dancohengtr_gmail.com.slc
+|   |---Math 2501
+|   |   |---.DS_Store
+|   |   |---2501Mid (1).odt
+|   |   |---2501Mid.ods
+|   |   |---2501Mid.odt
+|   |   |---Class 3.ods
+|   |   |---Class 4.ods
+|   |   |---Cohen, Daniel HW1 part1 (1).odt
+|   |   |---Cohen, Daniel HW1 part1.odt
+|   |   |---Cohen, Daniel HW1 part2 (1).ods
+|   |   |---Cohen, Daniel HW1 part2.ods
+|   |   |---Cohen, Daniel HW2.ods
+|   |   |---Cohen, Daniel HW3 (1).ods
+|   |   |---Cohen, Daniel HW3.ods
+|   |   |---Stat 04Oct.pdf
+|   |   |---Stat 06Sept.ods
+|   |   |---Stat 06Sept.pdf
+|   |   |---Stat 11Oct.pdf
+|   |   |---Stat 16Oct.pdf
+|   |   |---Stat 18Oct (1).pdf
+|   |   |---Stat 18Oct.pdf
+|   |   |---Stat 25Oct.pdf
+|   |   |---Stat 25Sep.pdf
+|   |   |---Stat 27Sep.mw
+|   |   |---Stat 27Sep.pdf
+|   |   |---Stats Stuff.mw
+|   |---MatrixSaver
+|   |   |---.DS_Store
+|   |   |---GLMatrix.saver
+|   |   |---READ ME.rtf
+|   |---Microsoft User Data
+|   |   |---Office 2011 Identities
+|   |---MuseExport
+|   |   |---.DS_Store
+|   |   |---about.html
+|   |   |---audio-samples.html
+|   |   |---contact.html
+|   |   |---css
+|   |   |---images
+|   |   |---index.html
+|   |   |---muse_manifest.xml
+|   |   |---navigate.html
+|   |   |---phone
+|   |   |---rates.html
+|   |   |---scripts
+|   |   |---sitemap.xml
+|   |---My First Plugin
+|   |   |---Builds
+|   |   |---JuceLibraryCode
+|   |   |---My First Plugin.jucer
+|   |   |---Source
+|   |---MyGitHub
+|   |   |---.DS_Store
+|   |   |---.git
+|   |   |---beeroclock
+|   |   |---Canvas-Drawing
+|   |   |---My_Blog
+|   |   |---openGL-3D-Interactive-Transformation
+|   |   |---react
+|   |   |---Service-Desk-Inventory-Web-Application
+|   |   |---Shapes-N-Colors-App
+|   |   |---Social-Ink-Game
+|   |---Native Instruments
+|   |   |---.DS_Store
+|   |   |---Absynth 5
+|   |   |---Battery 3
+|   |   |---FM8
+|   |   |---Guitar Rig 5
+|   |   |---Kontakt 5
+|   |   |---Massive
+|   |   |---Reaktor5
+|   |---nodejsstuff
+|   |   |---node_modules
+|   |   |---package-lock.json
+|   |   |---package.json
+|   |---Opentext Cover Letter.docx
+|   |---pinkroomrecording
+|   |   |---.DS_Store
+|   |   |---about.html
+|   |   |---audio-samples.html
+|   |   |---contact.html
+|   |   |---css
+|   |   |---images
+|   |   |---index.html
+|   |   |---muse_manifest.xml
+|   |   |---MuseLog.txt
+|   |   |---navigate.html
+|   |   |---phone
+|   |   |---rates.html
+|   |   |---scripts
+|   |   |---sitemap.xml
+|   |---pinkroomrecording.muse
+|   |---Pro Tools
+|   |   |---Documentation
+|   |   |---Grooves
+|   |   |---IO Settings
+|   |   |---Plug-In Maps
+|   |   |---Plug-In Settings
+|   |   |---Session Templates
+|   |   |---Video Test Patterns
+|   |---Shapes_N_Colors
+|   |   |---.bithoundrc
+|   |   |---.DS_Store
+|   |   |---.git
+|   |   |---config.xml
+|   |   |---CONTRIBUTING.md
+|   |   |---hooks
+|   |   |---platforms
+|   |   |---plugins
+|   |   |---README.md
+|   |   |---www
+|   |---Supplyframe Cover Letter.docx
+|   |---SysEx Librarian
+|   |   |---.DS_Store
+|   |   |---OrangePPc212.214.syx
+|   |   |---Orangeppc212.syx
+|   |   |---Untitled-1.syx
+|   |   |---Untitled.syx
+|   |---workspace
+|   |   |---.DS_Store
+|   |   |---.metadata
+|   |   |---.recommenders
+|   |   |---ANIMAL GAME
+|   |   |---ANIMALS
+|   |   |---ASSIGNMENT_8
+|   |   |---Card Deck Project
+|   |   |---GG OO
+|   |   |---Guessgame
+|   |   |---guessing game OO
+|   |   |---guessinggame2
+|   |   |---GUI
+|   |   |---Homework3Animals
+|   |   |---libraries
+|   |   |---Practice
+|   |   |---RemoteSystemsTempFiles
+|   |   |---The Guessing Game
+|   |   |---Threading
+|   |   |---Threading Homework
+|   |---Xcode Projects
+|   |   |---.DS_Store
+|   |   |---3110 Game
+|   |   |---3110 Lab 3 strings
+|   |   |---3130 hw2
+|   |   |---C++ test
+|   |   |---CISC 3130 HW 1
+|   |   |---Comp Sci 1110
+|   |   |---final practice
+|   |   |---find last of
+|   |   |---Function Practice
+|   |   |---hello world
+|   |   |---hellow
+|   |   |---LAB CLASSES
+|   |   |---LAB DYNAMIC ALLOCATIon
+|   |   |---Linked Lists
+|   |   |---List HW
+|   |   |---Pointer Exercise
+|   |   |---Pointer HW
+|   |   |---Program 2
+|   |   |---Program 4
+|   |   |---Program 5
+|   |   |---Program 6
+|   |   |---Queue HW
+|   |   |---Recursive routine
+|   |   |---Stack HW
+|   |   |---Vector Class HW
+|---Downloads
+|   |---.DS_Store
+|   |---.localized
+|   |---2014TurboTaxReturn.pdf
+|   |---2501MidSoln(1).odt
+|   |---2501MidSoln(2).ods
+|   |---cf25freeSetup.exe
+|   |---Coin.cs
+|   |---Gee’s 13 Principles of Learning.pdf
+|   |---lecture1.pdf
+|   |---PlayerController.cs
+|   |---Score.cs
+|   |---Shapes_N_Colors-debug.apk
+|   |---Shapes_N_Colors.Windows10_1.0.0.0_x86_debug.appx
+|   |---Spawner.cs
+|   |---Stat 01Nov.pdf
+|   |---Stat 13Sep.ods
+|   |---Stat 25Oct.ods
+|   |---Stat 25Oct.pdf
+|   |---Stat 30Oct.ods
+|   |---Stat 30Oct.pdf
+|---Dropbox
+|   |---.dropbox
+|   |---.dropbox.cache
+|   |   |---hidden
+|   |   |---prefetch_cache
+|   |   |---temp_hidden
+|   |---.DS_Store
+|   |---Camera Uploads
+|   |   |---.dropbox
+|   |   |---.DS_Store
+|   |   |---2010-04-23 21.33.25.jpg
+|   |   |---2010-07-06 19.32.08.jpg
+|   |   |---2010-07-06 22.50.13-1.jpg
+|   |   |---2010-07-06 22.50.13-2.jpg
+|   |   |---2010-07-06 22.50.13-3.jpg
+|   |   |---2010-07-06 22.50.13.jpg
+|   |   |---2010-08-23 22.53.44-1.jpg
+|   |   |---2010-08-23 22.53.44-2.jpg
+|   |   |---2010-08-23 22.53.44-3.jpg
+|   |   |---2010-08-23 22.53.44.jpg
+|   |   |---2010-09-04 23.41.06.jpg
+|   |   |---2012-01-08 16.20.19.jpg
+|   |   |---2012-01-21 19.37.14.jpg
+|   |   |---2012-01-31 16.31.21.jpg
+|   |   |---2012-03-18 18.48.31.jpg
+|   |   |---2012-03-20 21.42.46.jpg
+|   |   |---2012-04-27 20.57.22.jpg
+|   |   |---2012-05-02 22.19.19.jpg
+|   |   |---2012-05-28 15.20.24.jpg
+|   |   |---2012-06-03 20.42.24.mov
+|   |   |---2012-06-05 10.04.46.jpg
+|   |   |---2012-06-12 12.37.02.jpg
+|   |   |---2012-06-15 21.11.46.jpg
+|   |   |---2012-06-25 10.49.50.jpg
+|   |   |---2012-07-14 01.08.50.jpg
+|   |   |---2012-07-15 00.15.39.jpg
+|   |   |---2012-07-15 00.17.33.jpg
+|   |   |---2012-07-28 17.40.20.jpg
+|   |   |---2012-08-03 14.20.59.jpg
+|   |   |---2012-08-03 14.21.09.jpg
+|   |   |---2012-08-03 14.21.52.jpg
+|   |   |---2012-08-19 19.57.41.mov
+|   |   |---2012-08-24 15.31.41.jpg
+|   |   |---2012-08-24 15.31.47.jpg
+|   |   |---2012-08-24 15.31.52.jpg
+|   |   |---2012-08-24 15.31.57.jpg
+|   |   |---2012-08-25 01.20.40.jpg
+|   |   |---2012-08-26 21.11.18.jpg
+|   |   |---2012-08-31 19.13.58.jpg
+|   |   |---2012-08-31 19.14.15.jpg
+|   |   |---2012-08-31 19.14.21.jpg
+|   |   |---2012-09-01 17.04.29.jpg
+|   |   |---2012-09-01 18.09.30.jpg
+|   |   |---2012-09-04 19.01.13.jpg
+|   |   |---2012-09-11 17.37.52.jpg
+|   |   |---2012-09-13 13.30.16.jpg
+|   |   |---2012-09-13 13.30.23.jpg
+|   |   |---2012-09-13 13.30.58.jpg
+|   |   |---2012-09-29 21.05.27.jpg
+|   |   |---2012-09-29 21.05.56.jpg
+|   |   |---2012-09-29 21.06.18.jpg
+|   |   |---2012-09-29 21.06.44.jpg
+|   |   |---2012-09-29 21.07.20-1.jpg
+|   |   |---2012-09-29 21.07.20-2.jpg
+|   |   |---2012-09-29 23.48.12.jpg
+|   |   |---2012-09-29 23.48.14.jpg
+|   |   |---2012-09-29 23.48.19.jpg
+|   |   |---2012-09-29 23.48.21.jpg
+|   |   |---2012-09-29 23.48.23.jpg
+|   |   |---2012-10-31 19.31.24.jpg
+|   |   |---2012-11-24 17.22.00.jpg
+|   |   |---2012-12-07 12.23.13.jpg
+|   |   |---2012-12-07 12.23.21.jpg
+|   |   |---2012-12-11 17.43.17.jpg
+|   |   |---2012-12-17 15.29.26.jpg
+|   |   |---2012-12-17 15.29.34.jpg
+|   |   |---2012-12-24 18.11.41.jpg
+|   |   |---2012-12-25 15.04.40.jpg
+|   |   |---2013-01-20 21.25.19-1.jpg
+|   |   |---2013-01-20 21.25.19.jpg
+|   |   |---2013-01-20 21.25.25-1.jpg
+|   |   |---2013-01-20 21.25.25-2.jpg
+|   |   |---2013-01-23 15.42.51.jpg
+|   |   |---2013-01-24 13.26.20.jpg
+|   |   |---2013-01-24 14.01.04.jpg
+|   |   |---2013-01-24 14.02.37.jpg
+|   |   |---2013-01-28 18.47.19.jpg
+|   |   |---2013-01-28 18.48.07.jpg
+|   |   |---2013-01-28 18.48.59.jpg
+|   |   |---2013-01-28 18.49.03-1.jpg
+|   |   |---2013-01-28 18.49.03.jpg
+|   |   |---2013-01-28 18.50.01.jpg
+|   |   |---2013-01-28 18.50.34.jpg
+|   |   |---2013-01-28 18.50.44.jpg
+|   |   |---2013-01-28 18.51.24.jpg
+|   |   |---2013-01-28 18.52.01-1.jpg
+|   |   |---2013-01-28 18.52.01.jpg
+|   |   |---2013-01-28 18.59.21.jpg
+|   |   |---2013-01-28 19.00.30.jpg
+|   |   |---2013-01-28 19.00.58.jpg
+|   |   |---2013-01-28 19.01.26.jpg
+|   |   |---2013-01-28 19.02.17.jpg
+|   |   |---2013-01-28 19.02.27.jpg
+|   |   |---2013-01-28 19.02.38.jpg
+|   |   |---2013-01-28 19.03.43-1.jpg
+|   |   |---2013-01-28 19.03.43.jpg
+|   |   |---2013-01-28 19.04.01.jpg
+|   |   |---2013-01-28 19.04.06.jpg
+|   |   |---2013-01-28 19.05.26.jpg
+|   |   |---2013-01-28 19.05.41-1.jpg
+|   |   |---2013-01-28 19.05.41.jpg
+|   |   |---2013-01-30 23.41.30.jpg
+|   |   |---2013-01-31 20.46.48.jpg
+|   |   |---2013-02-03 19.08.34.jpg
+|   |   |---2013-02-03 19.09.47.jpg
+|   |   |---2013-02-03 19.10.09.jpg
+|   |   |---2013-02-04 18.06.48.jpg
+|   |   |---2013-02-11 19.40.38.jpg
+|   |   |---2013-02-11 19.40.39 HDR.jpg
+|   |   |---2013-02-16 13.30.59.jpg
+|   |   |---2013-02-16 13.31.00 HDR.jpg
+|   |   |---2013-02-16 13.31.12 HDR.jpg
+|   |   |---2013-02-16 13.31.12.jpg
+|   |   |---2013-02-16 13.37.55 HDR.jpg
+|   |   |---2013-02-16 13.37.55.jpg
+|   |   |---2013-02-16 13.38.02 HDR.jpg
+|   |   |---2013-02-16 13.38.02.jpg
+|   |   |---2013-02-16 14.00.20.jpg
+|   |   |---2013-02-16 14.00.21 HDR.jpg
+|   |   |---2013-02-16 14.00.33.jpg
+|   |   |---2013-02-16 14.00.34 HDR.jpg
+|   |   |---2013-02-16 14.01.37 HDR.jpg
+|   |   |---2013-02-16 14.01.37.jpg
+|   |   |---2013-02-16 14.05.37 HDR.jpg
+|   |   |---2013-02-16 14.05.37.jpg
+|   |   |---2013-02-17 22.56.53.jpg
+|   |   |---2013-02-17 23.00.04.jpg
+|   |   |---2013-03-02 18.24.45.jpg
+|   |   |---2013-03-14 16.49.05.jpg
+|   |   |---2013-03-14 16.49.12.jpg
+|   |   |---2013-03-17 00.04.18.mov
+|   |   |---2013-03-18 17.06.39.jpg
+|   |   |---2013-03-20 20.40.54.jpg
+|   |   |---2013-03-22 16.05.59.jpg
+|   |   |---2013-03-22 16.06.01.jpg
+|   |   |---2013-03-22 16.06.04.jpg
+|   |   |---2013-03-22 17.45.35.jpg
+|   |   |---2013-03-22 19.05.39.jpg
+|   |   |---2013-03-22 19.06.02.jpg
+|   |   |---2013-03-22 20.56.39.mov
+|   |   |---2013-03-22 20.57.16.mov
+|   |   |---2013-03-22 21.01.27.mov
+|   |   |---2013-03-22 21.02.25.mov
+|   |   |---2013-03-23 10.06.03.jpg
+|   |   |---2013-03-23 10.06.16.jpg
+|   |   |---2013-03-23 21.10.12.jpg
+|   |   |---2013-03-24 10.36.38.jpg
+|   |   |---2013-03-25 12.50.51-1.jpg
+|   |   |---2013-03-25 12.50.51.jpg
+|   |   |---2013-03-25 13.00.16-1.jpg
+|   |   |---2013-03-25 13.00.16.jpg
+|   |   |---2013-03-25 13.00.21.jpg
+|   |   |---2013-03-25 13.03.50-1.jpg
+|   |   |---2013-03-25 13.03.50.jpg
+|   |   |---2013-03-25 13.08.35.jpg
+|   |   |---2013-03-25 13.17.21.jpg
+|   |   |---2013-03-25 13.17.29-1.jpg
+|   |   |---2013-03-25 13.17.29.jpg
+|   |   |---2013-03-26 12.37.41.jpg
+|   |   |---2013-03-26 12.37.50.jpg
+|   |   |---2013-03-26 12.40.26.jpg
+|   |   |---2013-03-26 12.42.44.jpg
+|   |   |---2013-03-26 12.42.52.jpg
+|   |   |---2013-03-26 12.44.13-1.jpg
+|   |   |---2013-03-26 12.44.13.jpg
+|   |   |---2013-03-26 12.44.20.jpg
+|   |   |---2013-03-26 18.32.11-1.jpg
+|   |   |---2013-03-26 18.32.11.jpg
+|   |   |---2013-03-26 18.32.17.jpg
+|   |   |---2013-03-26 18.32.24.jpg
+|   |   |---2013-03-26 18.32.31.jpg
+|   |   |---2013-03-26 18.32.42-1.jpg
+|   |   |---2013-03-26 18.32.42.jpg
+|   |   |---2013-03-27 14.45.41-1.jpg
+|   |   |---2013-03-27 14.45.41.jpg
+|   |   |---2013-03-27 14.45.48.jpg
+|   |   |---2013-03-27 14.46.55-1.jpg
+|   |   |---2013-03-27 14.46.55.jpg
+|   |   |---2013-03-28 13.58.01.jpg
+|   |   |---2013-03-28 17.10.33.jpg
+|   |   |---2013-03-28 17.10.54.jpg
+|   |   |---2013-03-30 12.58.32.jpg
+|   |   |---2013-03-30 12.58.36.jpg
+|   |   |---2013-04-02 17.28.56.jpg
+|   |   |---2013-04-13 18.04.30.jpg
+|   |   |---2013-04-14 14.58.14.mov
+|   |   |---2013-04-14 15.03.17.mov
+|   |   |---2013-04-14 18.04.13.jpg
+|   |   |---2013-04-14 18.04.20.jpg
+|   |   |---2013-04-14 18.04.28.jpg
+|   |   |---2013-04-20 20.11.07.jpg
+|   |   |---2013-04-21 16.09.07.png
+|   |   |---2013-04-21 19.28.06.mov
+|   |   |---2013-04-26 15.12.00.jpg
+|   |   |---2013-04-27 13.15.45.jpg
+|   |   |---2013-04-27 13.15.59.jpg
+|   |   |---2013-04-27 17.09.32.jpg
+|   |   |---2013-04-27 17.09.38.jpg
+|   |   |---2013-04-28 21.00.41.jpg
+|   |   |---2013-04-29 11.42.41.jpg
+|   |   |---2013-04-29 11.42.56.jpg
+|   |   |---2013-05-04 17.26.16.jpg
+|   |   |---2013-05-05 17.21.45.mov
+|   |   |---2013-05-27 18.37.50.mov
+|   |   |---2013-05-28 10.07.30.png
+|   |   |---2013-05-28 11.11.59.jpg
+|   |   |---2013-05-28 11.12.16.jpg
+|   |   |---2013-06-03 14.23.11.jpg
+|   |   |---2013-06-06 08.08.13.jpg
+|   |   |---2013-06-07 01.36.20.jpg
+|   |   |---2013-06-07 01.36.26.jpg
+|   |   |---2013-06-07 01.36.31.jpg
+|   |   |---2013-06-18 22.27.22.jpg
+|   |   |---2013-06-18 23.46.40.jpg
+|   |   |---2013-06-19 22.07.25.jpg
+|   |   |---2013-06-19 22.39.37.jpg
+|   |   |---2013-06-19 23.54.51.jpg
+|   |   |---2013-06-21 13.50.41.jpg
+|   |   |---2013-06-21 23.02.24.jpg
+|   |   |---2013-06-21 23.02.27.jpg
+|   |   |---2013-06-21 23.03.35.jpg
+|   |   |---2013-06-22 13.42.21.jpg
+|   |   |---2013-06-24 11.23.56.jpg
+|   |   |---2013-06-24 11.38.23.jpg
+|   |   |---2013-06-24 22.26.36.jpg
+|   |   |---2013-06-26 23.55.05.jpg
+|   |   |---2013-07-02 13.26.19.jpg
+|   |   |---2013-07-03 15.34.50.jpg
+|   |   |---2013-07-04 18.08.37.jpg
+|   |   |---2013-07-06 17.52.28.jpg
+|   |   |---2013-07-10 12.48.15.jpg
+|   |   |---2013-07-10 14.10.01.jpg
+|   |   |---2013-07-12 11.35.28.jpg
+|   |   |---2013-07-15 01.08.00.png
+|   |   |---2013-07-17 21.38.42.jpg
+|   |   |---2013-07-17 21.43.45.jpg
+|   |   |---2013-07-17 21.45.22.jpg
+|   |   |---2013-07-17 21.47.30.jpg
+|   |   |---2013-07-17 21.48.59.jpg
+|   |   |---2013-07-17 21.49.45.jpg
+|   |   |---2013-07-17 22.16.39.jpg
+|   |   |---2013-07-19 20.15.44.png
+|   |   |---2013-07-24 15.00.05.jpg
+|   |   |---2013-07-29 14.08.33.png
+|   |   |---2013-08-01 23.52.57.png
+|   |   |---2013-08-21 00.45.40.jpg
+|   |   |---2013-08-22 00.42.42.jpg
+|   |   |---2013-08-22 00.42.58.jpg
+|   |   |---2013-08-22 10.47.57.jpg
+|   |   |---2013-08-23 19.26.25.jpg
+|   |   |---2013-09-05 11.20.01.jpg
+|   |   |---2013-09-06 21.15.47.png
+|   |   |---2013-09-07 22.27.31.jpg
+|   |   |---Icon
+|   |---Getting Started.pdf
+|   |---Icon
+|   |---Photos
+|   |   |---.DS_Store
+|   |   |---Sample Album
+|   |---The_Systematic_Mixing_Guide (1).pdf
+|   |---The_Systematic_Mixing_Guide.pdf
+|   |---VIDEO0056_4190.mp4
+|   |---VIDEO0056_6238.mp4
+|---Gobbler
+|---Library
+|   |---.localized
+|   |---Accounts
+|   |   |---Accounts3.sqlite
+|   |   |---Accounts3.sqlite-shm
+|   |   |---Accounts3.sqlite-wal
+|   |---Address Book Plug-Ins
+|   |   |---SkypeABCaller.bundle
+|   |   |---SkypeABChatter.bundle
+|   |   |---SkypeABDialer.bundle
+|   |   |---SkypeABSMS.bundle
+|   |---Android
+|   |   |---sdk
+|   |---Application Scripts
+|   |   |---com.apple.AddressBook
+|   |---Application Support
+|   |   |---.ACCC_Lock
+|   |   |---.ADCS_Lock
+|   |   |---.dvvTvwIMq7bvmWz8
+|   |   |---.localized
+|   |   |---Ableton
+|   |   |---ActiveState
+|   |   |---Adapter
+|   |   |---AddressBook
+|   |   |---Adobe
+|   |   |---AndroidStudio2.3
+|   |   |---Antares
+|   |   |---Aperture
+|   |   |---App Store
+|   |   |---Applied Acoustics Systems
+|   |   |---Avira
+|   |   |---Brackets
+|   |   |---CallHistoryDB
+|   |   |---CallHistoryTransactions
+|   |   |---CCleaner
+|   |   |---CEF
+|   |   |---CleanMyMac 3
+|   |   |---CloudDocs
+|   |   |---Code
+|   |   |---codeblocks
+|   |   |---com.apple.QuickLook
+|   |   |---com.apple.spotlight
+|   |   |---com.apple.spotlight.Shortcuts
+|   |   |---com.apple.TCC
+|   |   |---com.crashlytics
+|   |   |---com.github.GitHub.ShipIt
+|   |   |---com.kivuto.sdm
+|   |   |---com.microsoft.HockeyApp
+|   |   |---ConfigurationProfiles
+|   |   |---Console
+|   |   |---CrashReporter
+|   |   |---DefaultCompany
+|   |   |---Dock
+|   |   |---FabFilter
+|   |   |---Firefox
+|   |   |---Focusrite
+|   |   |---Fractal Audio
+|   |   |---GarageBand
+|   |   |---GitHub for Mac
+|   |   |---Gobbler
+|   |   |---Google
+|   |   |---Guitar Pro 6
+|   |   |---iCloud
+|   |   |---iLifeAssetManagement
+|   |   |---iLifeMediaBrowser
+|   |   |---iMovie
+|   |   |---Intego Backup Assistant
+|   |   |---Isoplex
+|   |   |---iZotope
+|   |   |---JREInstaller
+|   |   |---Kazrog LLC
+|   |   |---Kindle
+|   |   |---Komodo IDE
+|   |   |---KomodoIDE
+|   |   |---Librarian
+|   |   |---LibreOffice
+|   |   |---Logic
+|   |   |---MakeMusic
+|   |   |---Microsoft
+|   |   |---MindVision
+|   |   |---MobileSync
+|   |   |---Mozilla
+|   |   |---Native Instruments
+|   |   |---NETGEARGenie
+|   |   |---NotificationCenter
+|   |   |---openvr
+|   |   |---Oracle
+|   |   |---Origin
+|   |   |---PhoneGap
+|   |   |---Plugin Alliance
+|   |   |---PowerRegister
+|   |   |---Preview
+|   |   |---Projucer
+|   |   |---Propellerhead Software
+|   |   |---Quick Look
+|   |   |---Seagate Dashboard 2.0
+|   |   |---Skype
+|   |   |---Slate Digital
+|   |   |---Spigot
+|   |   |---SPL Plug-Ins
+|   |   |---Spotify
+|   |   |---ssd_sampler
+|   |   |---Steam
+|   |   |---SyncServices
+|   |   |---TeamViewer
+|   |   |---Toontrack
+|   |   |---Trigger2.ini
+|   |   |---u-he
+|   |   |---Ubiquity
+|   |   |---Unity
+|   |   |---uTorrent
+|   |   |---Wine
+|   |   |---WorldOfGoo
+|   |   |---Wuala
+|   |   |---Xcode
+|   |---Assistants
+|   |---Audio
+|   |   |---Apple Loops
+|   |   |---Apple Loops Index
+|   |   |---MIDI Drivers
+|   |   |---Plug-Ins
+|   |   |---Presets
+|   |   |---Sounds
+|   |---Autosave Information
+|   |   |---Unsaved Xcode Document 2.xcworkspace
+|   |   |---Unsaved Xcode Document.xcworkspace
+|   |---Caches
+|   |   |---$(CFBundleIdentifier)
+|   |   |---ActiveState
+|   |   |---Adobe
+|   |   |---AndroidStudio2.3
+|   |   |---AudioUnitCache
+|   |   |---Brackets
+|   |   |---CloudKit
+|   |   |---com.adobe.InstallAdobeFlashPlayer
+|   |   |---com.adobe.Muse.application
+|   |   |---com.adobe.PDApp
+|   |   |---com.amazon.Kindle-Crash-Reporter
+|   |   |---com.apple.accountsd
+|   |   |---com.apple.AddressBookSourceSync
+|   |   |---com.apple.AOSPushRelay
+|   |   |---com.apple.audiounits.cache
+|   |   |---com.apple.automator.actionCache-bundleLocations.plist
+|   |   |---com.apple.automator.actionCache-system-standardLocations.plist
+|   |   |---com.apple.automator.actionCache-user-standardLocations.plist
+|   |   |---com.apple.bird
+|   |   |---com.apple.bookstoreagent
+|   |   |---com.apple.CaptiveNetworkAssistant
+|   |   |---com.apple.commerce
+|   |   |---com.apple.CommerceKit.TransactionService
+|   |   |---com.apple.coreservices.uiagent
+|   |   |---com.apple.DictionaryManager
+|   |   |---com.apple.DictionaryServices
+|   |   |---com.apple.dt.Xcode
+|   |   |---com.apple.dt.Xcode.sourcecontrol.Git
+|   |   |---com.apple.finder
+|   |   |---com.apple.gamed
+|   |   |---com.apple.helpd
+|   |   |---com.apple.helpviewer
+|   |   |---com.apple.ibtool
+|   |   |---com.apple.iChat
+|   |   |---com.apple.ichat.TranscriptRenderingService
+|   |   |---com.apple.iCloudHelper
+|   |   |---com.apple.iLifeMediaBrowser
+|   |   |---com.apple.imfoundation.IMRemoteURLConnectionAgent
+|   |   |---com.apple.installer
+|   |   |---com.apple.iTunes
+|   |   |---com.apple.logic.pro
+|   |   |---com.apple.logic10
+|   |   |---com.apple.Messages
+|   |   |---com.apple.metadata.SpotlightNetHelper
+|   |   |---com.apple.musicapps
+|   |   |---com.apple.musicapps.MAContentInstallation
+|   |   |---com.apple.nbagent
+|   |   |---com.apple.nsservicescache.plist
+|   |   |---com.apple.preferencepanes.cache
+|   |   |---com.apple.preferencepanes.searchindexcache
+|   |   |---com.apple.QuickLookDaemon
+|   |   |---com.apple.QuickLookDaemon32
+|   |   |---com.apple.Safari
+|   |   |---com.apple.safaridavclient
+|   |   |---com.apple.SetupAssistant
+|   |   |---com.apple.syncdefaultsd
+|   |   |---com.apple.systempreferences
+|   |   |---com.apple.SystemProfiler
+|   |   |---com.apple.TextEdit
+|   |   |---com.avid.ProTools
+|   |   |---com.bittorrent.uTorrent
+|   |   |---com.brand.launch
+|   |   |---com.crashlytics.data
+|   |   |---com.ea.Origin
+|   |   |---com.FractalAudio.AxeEdit
+|   |   |---com.fractalaudio.fractalbot
+|   |   |---com.getdropbox.dropbox
+|   |   |---com.github.GitHub
+|   |   |---com.Gobbler.Gobbler2
+|   |   |---com.Gobbler.Gobbler2Installer
+|   |   |---com.google.Chrome
+|   |   |---com.google.Keystone
+|   |   |---com.google.Keystone.Agent
+|   |   |---com.google.SoftwareUpdate
+|   |   |---com.juce.locks
+|   |   |---com.juce.theprojucer
+|   |   |---com.kivuto.SecureDownloadManager
+|   |   |---com.macpaw.CleanMyMac3.Scheduler
+|   |   |---com.macroplant.adapter
+|   |   |---com.microsoft.VSCode
+|   |   |---com.microsoft.VSCode.ShipIt
+|   |   |---com.microsoft.Word
+|   |   |---com.oracle.java.Java-Updater
+|   |   |---com.orthocephalous.disadvise
+|   |   |---com.paceap.iLokLicenseManager
+|   |   |---com.plausiblelabs.crashreporter.data
+|   |   |---com.skype.skype
+|   |   |---com.snoize.SysExLibrarian
+|   |   |---com.solidstatenetworks.host
+|   |   |---com.spotify.client
+|   |   |---com.spotify.installer
+|   |   |---com.teamviewer.TeamViewer
+|   |   |---com.toontrack.ezmix2
+|   |   |---com.toontrack.ezplayer
+|   |   |---com.toontrack.superior.superior2
+|   |   |---com.unity3d.Unity-Download-Assistant
+|   |   |---com.unity3d.UnityEditor
+|   |   |---com.unity3d.UnityEditor5.x
+|   |   |---crashpad_handler
+|   |   |---FamilyCircle
+|   |   |---Firefox
+|   |   |---GameKit
+|   |   |---GeoServices
+|   |   |---GitHub for Mac
+|   |   |---Google
+|   |   |---io.brackets.appshell
+|   |   |---io.fabric.sdk.mac.data
+|   |   |---Komodo IDE
+|   |   |---ksfetch
+|   |   |---Logic
+|   |   |---Maps
+|   |   |---mbicloudsetup
+|   |   |---mbpluginhost
+|   |   |---Metadata
+|   |   |---Microsoft
+|   |   |---MiniLauncher
+|   |   |---MonoDevelop-Unity-5.0
+|   |   |---Mozilla
+|   |   |---Oracle.MacJREInstaller
+|   |   |---org.eclipse.platform.ide
+|   |   |---org.kronenberg.Wine
+|   |   |---org.kronenberg.WineBottler
+|   |   |---org.perian.Perian
+|   |   |---Origin
+|   |   |---pip
+|   |   |---QCCompositionRepository-com.apple.iTunes.cache
+|   |   |---qlmanage
+|   |   |---rtcreportingd
+|   |   |---storeaccountd
+|   |   |---storeassetd
+|   |   |---storedownloadd
+|   |   |---storeinappd
+|   |   |---TemporaryItems
+|   |   |---typescript
+|   |   |---Waves
+|   |---Calendars
+|   |   |---0C4AD741-BA42-4996-A994-D0C3A3AF68E4.caldav
+|   |   |---2E162117-AACC-40CF-BDB1-A367BF2492CF.group
+|   |   |---37A72D22-0938-4E55-ACFA-1F6135D8DB66.caldav
+|   |   |---3DAD07F1-29CD-483F-A9CE-CD54EB3949D5.calendar
+|   |   |---3E84655A-B35C-4EEA-906C-D7952DE305DE.calendar
+|   |   |---5F4E1474-4BC3-43DC-B988-E949095C2EF0.caldav
+|   |   |---791D098E-1209-4110-A946-AFC8116083B6.caldav
+|   |   |---Calendar Cache
+|   |   |---Calendar Cache-shm
+|   |   |---Calendar Cache-wal
+|   |   |---Calendar Sync Changes
+|   |   |---Calendar Sync ClientID Conflicts.tmp
+|   |   |---Calendars and Reminders 8.9.13 10.51 PM.icbu
+|   |   |---E0AE91CE-7205-4DB5-BF42-0C126F21C29B.calendar
+|   |   |---Email Cache.plist
+|   |   |---Incoming
+|   |---ColorPickers
+|   |---Colors
+|   |   |---Emacs.clr
+|   |---com.apple.nsurlsessiond
+|   |---Compositions
+|   |   |---.localized
+|   |---Containers
+|   |   |---com.adobe.accmac.ACCFinderSync
+|   |   |---com.apple.AddressBook
+|   |   |---com.apple.AddressBook.FaceTimeService
+|   |   |---com.apple.AddressBook.InternetAccountsBridge
+|   |   |---com.apple.appstore
+|   |   |---com.apple.appstore.PluginXPCService
+|   |   |---com.apple.BKAgentService
+|   |   |---com.apple.calculator
+|   |   |---com.apple.CalendarAgent
+|   |   |---com.apple.CalendarAgent.CalNCService
+|   |   |---com.apple.Chess
+|   |   |---com.apple.CloudPhotosConfiguration
+|   |   |---com.apple.cloudphotosd
+|   |   |---com.apple.corerecents.recentsd
+|   |   |---com.apple.DataDetectorsDynamicData
+|   |   |---com.apple.Dictionary
+|   |   |---com.apple.FaceTime
+|   |   |---com.apple.gamecenter
+|   |   |---com.apple.geod
+|   |   |---com.apple.iBooksX
+|   |   |---com.apple.iCal
+|   |   |---com.apple.iCal.CalendarNC
+|   |   |---com.apple.iChat
+|   |   |---com.apple.iLifeSlideshow.MRXPCMovieServer
+|   |   |---com.apple.iMovieApp
+|   |   |---com.apple.InternalFiltersXPC
+|   |   |---com.apple.internetaccounts
+|   |   |---com.apple.iPhoto
+|   |   |---com.apple.lateragent
+|   |   |---com.apple.mail
+|   |   |---com.apple.MailServiceAgent
+|   |   |---com.apple.MapRenderingService
+|   |   |---com.apple.MediaLibraryService
+|   |   |---com.apple.ncplugin.stocks
+|   |   |---com.apple.ncplugin.weather
+|   |   |---com.apple.Notes
+|   |   |---com.apple.PhotoApps.DevicePropertyReader
+|   |   |---com.apple.PhotoIngestService
+|   |   |---com.apple.photolibraryd
+|   |   |---com.apple.PhotoLibraryMigrationUtility
+|   |   |---com.apple.photomodel
+|   |   |---com.apple.photomoments
+|   |   |---com.apple.Photos
+|   |   |---com.apple.photostream-agent
+|   |   |---com.apple.Preview
+|   |   |---com.apple.quicklook.ui.helper
+|   |   |---com.apple.QuickTimePlayerX
+|   |   |---com.apple.reminders
+|   |   |---com.apple.RemindersNC
+|   |   |---com.apple.share.Mail.compose
+|   |   |---com.apple.share.Messages.compose
+|   |   |---com.apple.share.Video.upload-Facebook
+|   |   |---com.apple.ShareKitHelper
+|   |   |---com.apple.soagent
+|   |   |---com.apple.SocialPushAgent
+|   |   |---com.apple.TextEdit
+|   |   |---com.apple.tonelibraryd
+|   |   |---com.apple.WeatherKitService
+|   |   |---com.blackmagic-design.DaVinciResolveLite
+|   |   |---com.evernote.Evernote
+|   |   |---com.evernote.EvernoteHelper
+|   |   |---com.skype.skype.shareagent
+|   |   |---com.vimov.weatherhd.mac
+|   |---Cookies
+|   |   |---com.apple.appstore.cookies
+|   |   |---com.apple.appstore.plist
+|   |   |---com.apple.ibooks.cookies
+|   |   |---com.apple.Safari.SafeBrowsing.binarycookies
+|   |   |---Cookies.binarycookies
+|   |   |---Cookies.binarycookies_tmp_295_0.dat
+|   |   |---Cookies.binarycookies_tmp_371_0.dat
+|   |   |---HSTS.plist
+|   |---DDMF
+|   |   |---licenseMetaplugin.txt
+|   |   |---Metaplugin.ini
+|   |   |---Metaplugin64.ini
+|   |---Developer
+|   |   |---CoreSimulator
+|   |   |---Xcode
+|   |---Dictionaries
+|   |   |---CoreDataUbiquitySupport
+|   |---Favorites
+|   |   |---.localized
+|   |---FontCollections
+|   |   |---com.apple.Recents.collection
+|   |   |---Fixed Width.collection
+|   |   |---Fun.collection
+|   |   |---Modern.collection
+|   |   |---PDF.collection
+|   |   |---Traditional.collection
+|   |   |---Web.collection
+|   |---Fonts
+|   |   |---Amplify_PersonalUseOnly.ttf
+|   |   |---Bangers.ttf
+|   |   |---Exo2-Black.ttf
+|   |   |---Exo2-BlackItalic.ttf
+|   |   |---Exo2-Bold.ttf
+|   |   |---Exo2-BoldItalic.ttf
+|   |   |---Exo2-ExtraBold.ttf
+|   |   |---Exo2-ExtraBoldItalic.ttf
+|   |   |---Exo2-ExtraLight.ttf
+|   |   |---Exo2-ExtraLightItalic.ttf
+|   |   |---Exo2-Italic.ttf
+|   |   |---Exo2-Light.ttf
+|   |   |---Exo2-LightItalic.ttf
+|   |   |---Exo2-Medium.ttf
+|   |   |---Exo2-MediumItalic.ttf
+|   |   |---Exo2-Regular.ttf
+|   |   |---Exo2-SemiBold.ttf
+|   |   |---Exo2-SemiBoldItalic.ttf
+|   |   |---Exo2-Thin.ttf
+|   |   |---Exo2-ThinItalic.ttf
+|   |   |---FrancoisOne.ttf
+|   |   |---LibreBaskerville-Bold.ttf
+|   |   |---LibreBaskerville-Italic.ttf
+|   |   |---LibreBaskerville-Regular.ttf
+|   |   |---Orbitron-Black.ttf
+|   |   |---Orbitron-Bold.ttf
+|   |   |---Orbitron-Medium.ttf
+|   |   |---Orbitron-Regular.ttf
+|   |   |---Righteous-Regular.ttf
+|   |   |---ShadowsIntoLight.ttf
+|   |   |---SigmarOne.ttf
+|   |---Fonts Disabled
+|   |---GameKit
+|   |   |---Data
+|   |---Google
+|   |   |---Google Chrome Brand.plist
+|   |   |---GoogleSoftwareUpdate
+|   |---Group Containers
+|   |   |---Adobe-Hub-App
+|   |   |---AL798K98FX.com.skype.skype
+|   |   |---com.adobe.accmac.explinder
+|   |   |---com.apple.MessagesLegacyTransferArchive
+|   |   |---com.apple.Preview
+|   |   |---com.apple.PreviewLegacySignaturesConversion
+|   |   |---Q79WDW8YH9.com.evernote.Evernote
+|   |   |---U97HH4RE69.WHDGroup
+|   |---IdentityServices
+|   |   |---ids.db
+|   |   |---ids.db-shm
+|   |   |---ids.db-wal
+|   |---iMovie
+|   |   |---Plug-ins
+|   |   |---Sound Effects
+|   |---Input Methods
+|   |   |---.localized
+|   |---Internet Plug-Ins
+|   |---iTunes
+|   |   |---https_buy.itunes.apple.com_0.localstorage
+|   |   |---https_p57-buy.itunes.apple.com_0.localstorage
+|   |   |---https_p58-buy.itunes.apple.com_0.localstorage
+|   |   |---https_se.itunes.apple.com_0.localstorage
+|   |   |---iPhone Carrier Support
+|   |   |---iPhone Software Updates
+|   |   |---iTunes Plug-ins
+|   |   |---StorageTracker.db
+|   |---Keyboard Layouts
+|   |---Keychains
+|   |   |---.fl0D1D1BA9
+|   |   |---.fl62323D2F
+|   |   |---.flA6A9AF81
+|   |   |---1233022A-A891-552F-A3DF-24F054439C9C
+|   |   |---login.keychain
+|   |   |---metadata.keychain
+|   |   |---Microsoft_Intermediate_Certificates
+|   |---LanguageModeling
+|   |   |---da-dynamic.lm
+|   |   |---de-dynamic.lm
+|   |   |---en-dynamic.lm
+|   |   |---es-dynamic.lm
+|   |   |---fr-dynamic.lm
+|   |   |---it-dynamic.lm
+|   |   |---nb-dynamic.lm
+|   |   |---nl-dynamic.lm
+|   |   |---pt-dynamic.lm
+|   |   |---sv-dynamic.lm
+|   |   |---tr-dynamic.lm
+|   |---LaunchAgents
+|   |   |---com.adobe.AAM.Updater-1.0.plist
+|   |   |---com.ea.origin.WebHelper.plist
+|   |   |---com.google.keystone.agent.plist
+|   |   |---com.macpaw.CleanMyMac3.Scheduler.plist
+|   |   |---com.skype.skype.shareagent.plist
+|   |   |---com.spotify.webhelper.plist
+|   |   |---com.valvesoftware.steamclean.plist
+|   |---Logs
+|   |   |---Adobe
+|   |   |---Adobe CCX Welcome
+|   |   |---Adobe_ADMLogs
+|   |   |---AdobeDownload
+|   |   |---adobegc.log
+|   |   |---AndroidStudio2.3
+|   |   |---Avid
+|   |   |---com.apple.NotesMigratorService
+|   |   |---com.juce.projucer
+|   |   |---com.kivuto
+|   |   |---CoreSimulator
+|   |   |---CrashReporter
+|   |   |---CreativeCloud
+|   |   |---DeviceLink
+|   |   |---DiagnosticReports
+|   |   |---DiskUtility.log
+|   |   |---FaceTime
+|   |   |---FlashPlayerInstallManager.log
+|   |   |---Focusrite Control
+|   |   |---fsck_hfs.log
+|   |   |---Handoff
+|   |   |---LwaTracing
+|   |   |---MonoDevelop-Unity-5.0
+|   |   |---PDApp.log
+|   |   |---ProtectedCloudStorage-20170725014418-SignIn.log
+|   |   |---ProtectedCloudStorage-20170725014454-SignIn.log
+|   |   |---ProtectedCloudStorage-20170725014615-SignIn.log
+|   |   |---ProtectedCloudStorage-20170920184054-SignIn.log
+|   |   |---ProtectedCloudStorage-20170920184154-SignIn.log
+|   |   |---ProtectedCloudStorage-20170920184244-SignIn.log
+|   |   |---Skype
+|   |   |---SMSMigrator
+|   |   |---SparkleUpdateLog.log
+|   |   |---Sync
+|   |   |---talagent.log
+|   |   |---TeamViewer
+|   |   |---Ubiquity
+|   |   |---Unity
+|   |---Mail
+|   |   |---V2
+|   |---Messages
+|   |   |---Archive
+|   |   |---Attachments
+|   |   |---chat.db
+|   |   |---chat.db-shm
+|   |   |---chat.db-wal
+|   |---Metadata
+|   |---Mobile Documents
+|   |   |---.do-not-delete
+|   |   |---.ubd
+|   |   |---C7HPP7U8L7~com~taptaptap~CameraPlus
+|   |   |---com~apple~mail
+|   |   |---com~apple~Notes
+|   |   |---com~apple~Preview
+|   |   |---com~apple~shoebox
+|   |   |---com~apple~system~spotlight
+|   |   |---com~apple~TextEdit
+|   |   |---com~apple~TextInput
+|   |---MonoDevelop-Unity-5.0
+|   |   |---HighlightingSchemes
+|   |---PreferencePanes
+|   |   |---.A0F801F44DD51376
+|   |   |---.localized
+|   |   |---.Mx2Esm47SPc=
+|   |   |---.NLEUJ05BBL7PO
+|   |---Preferences
+|   |   |---.9GHNLU49J7M3S
+|   |   |---.DS_Store
+|   |   |---.GlobalPreferences.plist
+|   |   |---.localized
+|   |   |---.snackcrm
+|   |   |---.svp2te
+|   |   |---Ableton
+|   |   |---Adobe
+|   |   |---AndroidStudio2.3
+|   |   |---Authorization Preferences
+|   |   |---Avid
+|   |   |---AvidListFile.txt
+|   |   |---axeomatic.plist
+|   |   |---Blue Cat Audio
+|   |   |---ByHost
+|   |   |---callservicesd.plist
+|   |   |---CD Info.cidb
+|   |   |---Cider Preferences
+|   |   |---com.ableton.live.plist
+|   |   |---com.activestate.KomodoIDE.plist
+|   |   |---com.adobe.accmac.plist
+|   |   |---com.adobe.AdobeMuseCC.2015.0
+|   |   |---com.adobe.crashreporter.plist
+|   |   |---com.adobe.Muse.application.plist
+|   |   |---com.airmusictech.Boom.plist
+|   |   |---com.airmusictech.Mini Grand.plist
+|   |   |---com.airmusictech.Structure.plist
+|   |   |---com.airmusictech.Xpand!2.plist
+|   |   |---com.Alsoft.DiskWarrior.prefs
+|   |   |---com.amazon.Kindle.plist
+|   |   |---com.aone.keka.plist
+|   |   |---com.apple.accountsd.plist
+|   |   |---com.apple.ActivityMonitor.plist
+|   |   |---com.apple.AddressBook.plist
+|   |   |---com.apple.airport.airportutility.plist
+|   |   |---com.apple.AppleMultitouchTrackpad.plist
+|   |   |---com.apple.appstore.plist
+|   |   |---com.apple.appstore.plist.VC1n0Sc
+|   |   |---com.apple.archiveutility.plist
+|   |   |---com.apple.assistant.plist
+|   |   |---com.apple.ATS.plist
+|   |   |---com.apple.audio.AudioMIDISetup.plist
+|   |   |---com.apple.BezelServices.plist
+|   |   |---com.apple.bird.plist
+|   |   |---com.apple.BluetoothFileExchange.plist
+|   |   |---com.apple.bookstoreagent.plist
+|   |   |---com.apple.calculateframework.plist
+|   |   |---com.apple.CalendarAgent.plist
+|   |   |---com.apple.CallHistorySyncHelper.plist
+|   |   |---com.apple.CaptiveNetworkAssistant.plist
+|   |   |---com.apple.CharacterPicker.plist
+|   |   |---com.apple.Chess.SandboxedPersistentURLs.LSSharedFileList.plist
+|   |   |---com.apple.cloudpaird.plist
+|   |   |---com.apple.cmfsyncagent.plist
+|   |   |---com.apple.ColorSyncCalibrator.plist
+|   |   |---com.apple.ColorSyncUtility.LSSharedFileList.plist
+|   |   |---com.apple.ColorSyncUtility.plist
+|   |   |---com.apple.commerce.knownclients.plist
+|   |   |---com.apple.commerce.plist
+|   |   |---com.apple.commerce.plist.lBXQepD
+|   |   |---com.apple.conference.plist
+|   |   |---com.apple.configurationprofiles.user.plist
+|   |   |---com.apple.Console.LSSharedFileList.plist
+|   |   |---com.apple.Console.plist
+|   |   |---com.apple.CoreGraphics.plist
+|   |   |---com.apple.coreservices.uiagent.plist
+|   |   |---com.apple.dashboard.client.plist
+|   |   |---com.apple.dashboard.plist
+|   |   |---com.apple.desktop.plist
+|   |   |---com.apple.diskimages.fsck
+|   |   |---com.apple.DiskUtility.plist
+|   |   |---com.apple.dock.plist
+|   |   |---com.apple.driver.AppleBluetoothMultitouch.mouse.plist
+|   |   |---com.apple.driver.AppleBluetoothMultitouch.trackpad.plist
+|   |   |---com.apple.driver.AppleHIDMouse.plist
+|   |   |---com.apple.dt.Xcode.LSSharedFileList.plist
+|   |   |---com.apple.dt.Xcode.plist
+|   |   |---com.apple.dt.xcodebuild.plist
+|   |   |---com.apple.facetime.bag.plist
+|   |   |---com.apple.facetime.plist
+|   |   |---com.apple.FaceTime.plist.krUmOuj
+|   |   |---com.apple.facetime.plist.XXWEWiF
+|   |   |---com.apple.FileStatsAgent.plist
+|   |   |---com.apple.finder.plist
+|   |   |---com.apple.FontBook.plist
+|   |   |---com.apple.FontRegistry.user.plist
+|   |   |---com.apple.frameworks.diskimages.diuiagent.plist
+|   |   |---com.apple.gamed.plist
+|   |   |---com.apple.gamed.plist.cL0nABT
+|   |   |---com.apple.garageband.cs
+|   |   |---com.apple.garageband.LSSharedFileList.plist
+|   |   |---com.apple.garageband.plist
+|   |   |---com.apple.GEO.plist
+|   |   |---com.apple.help.plist
+|   |   |---com.apple.helpd.plist
+|   |   |---com.apple.helpviewer.plist
+|   |   |---com.apple.HIToolbox.plist
+|   |   |---com.apple.iApps.plist
+|   |   |---com.apple.ibooks.plist
+|   |   |---com.apple.ibtool.plist
+|   |   |---com.apple.iCal.plist
+|   |   |---com.apple.iCal.plist.aUxkhgW
+|   |   |---com.apple.icbaccountsd.plist
+|   |   |---com.apple.iChat.AIM.plist
+|   |   |---com.apple.iChat.Jabber.plist
+|   |   |---com.apple.iChat.LSSharedFileList.plist
+|   |   |---com.apple.iChat.plist
+|   |   |---com.apple.iChat.StatusMessages.plist
+|   |   |---com.apple.iChat.Yahoo.plist
+|   |   |---com.apple.icloud.fmfd.plist
+|   |   |---com.apple.id-status.plist
+|   |   |---com.apple.identityservicesd.plist
+|   |   |---com.apple.ids.deviceproperties.plist
+|   |   |---com.apple.ids.service.com.apple.ess.plist
+|   |   |---com.apple.ids.service.com.apple.madrid.plist
+|   |   |---com.apple.ids.service.com.apple.private.ac.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.callhistorysync.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.continuity.activity.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.continuity.auth.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.continuity.encryption.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.continuity.tethering.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.icloudpairing.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.idsremoteurlconnection.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.idstransfers.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.maps.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.multiplex1.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.phonecontinuity.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.screensharing.plist
+|   |   |---com.apple.ids.service.com.apple.private.alloy.sms.plist
+|   |   |---com.apple.iLifeAssetManagement.crash.plist
+|   |   |---com.apple.iLifeAssetManagement.crash.plist.6HDkszp
+|   |   |---com.apple.iLifeAssetManagement.crash.plist.90mEu6D
+|   |   |---com.apple.iLifeAssetManagement.crash.plist.GbfuNI2
+|   |   |---com.apple.iLifeAssetManagement.crash.plist.ynfhcFH
+|   |   |---com.apple.iLifePhotoStream.importstatus.plist
+|   |   |---com.apple.iLifePhotoStream.plist
+|   |   |---com.apple.ImageCaptureExtension2.plist
+|   |   |---com.apple.imagent.plist
+|   |   |---com.apple.imdsmsrecordstore.plist
+|   |   |---com.apple.imessage.bag.plist
+|   |   |---com.apple.iMovieApp.LSSharedFileList.plist
+|   |   |---com.apple.imservice.FaceTime.plist
+|   |   |---com.apple.imservice.ids.FaceTime.plist
+|   |   |---com.apple.imservice.ids.iMessage.plist
+|   |   |---com.apple.imservice.iMessage.plist
+|   |   |---com.apple.imservice.iMessage.plist.1rVBjTN
+|   |   |---com.apple.imservice.iMessage.plist.6sTzStf
+|   |   |---com.apple.imservice.iMessage.plist.cZjcxDF
+|   |   |---com.apple.imservice.iMessage.plist.DXNexHy
+|   |   |---com.apple.imservice.iMessage.plist.jMEk8SZ
+|   |   |---com.apple.imservice.iMessage.plist.junxklV
+|   |   |---com.apple.imservice.iMessage.plist.jZ7lUf0
+|   |   |---com.apple.imservice.iMessage.plist.tpvSjHa
+|   |   |---com.apple.imservice.iMessage.plist.TxfvGU8
+|   |   |---com.apple.imservice.iMessage.plist.VYQSthd
+|   |   |---com.apple.imservice.iMessage.plist.WGz8Xhe
+|   |   |---com.apple.imservice.iMessage.plist.xEhkoJO
+|   |   |---com.apple.imservice.iMessage.plist.xNNNtDK
+|   |   |---com.apple.imservice.iMessage.plist.xTkCicG
+|   |   |---com.apple.imservice.iMessage.plist.Y5osReW
+|   |   |---com.apple.imservice.iMessage.plist.y6CcUqZ
+|   |   |---com.apple.imservice.iMessage.plist.YfqNZL8
+|   |   |---com.apple.InputMethodKit.UserDictionary.plist
+|   |   |---com.apple.internetaccounts.plist
+|   |   |---com.apple.internetconfig.plist
+|   |   |---com.apple.internetconfigpriv.plist
+|   |   |---com.apple.iPhoto.LSSharedFileList.plist
+|   |   |---com.apple.iPhoto.plist
+|   |   |---com.apple.iPod.plist
+|   |   |---com.apple.iTunes.eq.plist
+|   |   |---com.apple.iTunes.Gracenote.plist
+|   |   |---com.apple.iTunes.plist
+|   |   |---com.apple.iTunesHelper.plist
+|   |   |---com.apple.JapaneseAnalysis
+|   |   |---com.apple.java.util.prefs.plist
+|   |   |---com.apple.keychainaccess.plist
+|   |   |---com.apple.LaunchServices
+|   |   |---com.apple.LaunchServices.plist
+|   |   |---com.apple.LaunchServices.QuarantineEventsV2
+|   |   |---com.apple.logic.pro.cs
+|   |   |---com.apple.logic.pro.LSSharedFileList.plist
+|   |   |---com.apple.logic.pro.plist
+|   |   |---com.apple.logic10.LSSharedFileList.plist
+|   |   |---com.apple.logic10.plist
+|   |   |---com.apple.loginitems.plist
+|   |   |---com.apple.loginwindow.plist
+|   |   |---com.apple.loginwindow.plist.tgymK7o
+|   |   |---com.apple.lookup.plist
+|   |   |---com.apple.mail-shared.plist
+|   |   |---com.apple.Maps.plist
+|   |   |---com.apple.MassStorageCamera.plist
+|   |   |---com.apple.MCX.plist
+|   |   |---com.apple.menuextra.battery.plist
+|   |   |---com.apple.menuextra.clock.plist
+|   |   |---com.apple.MessagesHistoryImporter.plist
+|   |   |---com.apple.messaging.expire.plist
+|   |   |---com.apple.metadata.SpotlightNetHelper.plist
+|   |   |---com.apple.mmcs.plist
+|   |   |---com.apple.mmcs.plist.P3bizbz
+|   |   |---com.apple.mobile.iTunes.store.plist
+|   |   |---com.apple.MobileDeviceCrashCopy.plist
+|   |   |---com.apple.NetworkUtility.plist
+|   |   |---com.apple.NotesMigratorService.plist
+|   |   |---com.apple.notificationcenterui.plist
+|   |   |---com.apple.PhotoBooth.plist
+|   |   |---com.apple.Photos.LSSharedFileList.plist
+|   |   |---com.apple.preference.general.plist
+|   |   |---com.apple.preferences.extensions.ServicesWithUI.plist
+|   |   |---com.apple.preferences.extensions.ShareMenu.plist
+|   |   |---com.apple.Preview.LSSharedFileList.plist
+|   |   |---com.apple.Preview.SandboxedPersistentURLs.LSSharedFileList.plist
+|   |   |---com.apple.print.add.plist
+|   |   |---com.apple.print.custompresets.forprinter.Brother_HL_2270DW_series.plist
+|   |   |---com.apple.print.custompresets.forprinter.Canon_MP280_series.plist
+|   |   |---com.apple.print.custompresets.forprinter.Canon_MP280_series_2.plist
+|   |   |---com.apple.print.makequeuesagent.plist
+|   |   |---com.apple.print.PrinterProxy.plist
+|   |   |---com.apple.ProblemReporter.plist
+|   |   |---com.apple.PTPCamera.plist
+|   |   |---com.apple.PubSubAgent.plist
+|   |   |---com.apple.quicklookconfig.plist
+|   |   |---com.apple.QuickLookDaemon.plist
+|   |   |---com.apple.quicktime.plugin.preferences.plist
+|   |   |---com.apple.QuickTimePlayerX.LSSharedFileList.plist
+|   |   |---com.apple.QuickTimePlayerX.plist
+|   |   |---com.apple.QuickTimePlayerX.SandboxedPersistentURLs.LSSharedFileList.plist
+|   |   |---com.apple.recentitems.plist
+|   |   |---com.apple.recentitems.plist.1p1onaU
+|   |   |---com.apple.registration.plist
+|   |   |---com.apple.Safari.Extensions.plist
+|   |   |---com.apple.Safari.plist
+|   |   |---com.apple.SafariCloudHistoryPushAgent.plist
+|   |   |---com.apple.scheduler.plist
+|   |   |---com.apple.screensaver.plist
+|   |   |---com.apple.ScriptEditor2.plist
+|   |   |---com.apple.security.cloudkeychainproxy3.keysToRegister.plist
+|   |   |---com.apple.security.KCN.plist
+|   |   |---com.apple.security.pboxd.plist
+|   |   |---com.apple.security.plist
+|   |   |---com.apple.ServicesMenu.Services.plist
+|   |   |---com.apple.SetupAssistant.plist
+|   |   |---com.apple.sharekit.recents.plist
+|   |   |---com.apple.sharingd.plist
+|   |   |---com.apple.sidebarlists.plist
+|   |   |---com.apple.sms.plist
+|   |   |---com.apple.spaces.plist
+|   |   |---com.apple.spaces.plist.03j8Utd
+|   |   |---com.apple.spaces.plist.axMLZVM
+|   |   |---com.apple.spaces.plist.e4Ya21g
+|   |   |---com.apple.spaces.plist.LF5zRB3
+|   |   |---com.apple.spaces.plist.oaNx3c2
+|   |   |---com.apple.speech.recognition.AppleSpeechRecognition.prefs.plist
+|   |   |---com.apple.speech.recognition.feedback.prefs.plist
+|   |   |---com.apple.speech.voice.prefs.plist
+|   |   |---com.apple.Spotlight.plist
+|   |   |---com.apple.storeagent.plist
+|   |   |---com.apple.symbolichotkeys.plist
+|   |   |---com.apple.syncserver.plist
+|   |   |---com.apple.systempreferences.plist
+|   |   |---com.apple.SystemProfiler.plist
+|   |   |---com.apple.systemuiserver.plist
+|   |   |---com.apple.systemuiserver.plist.y7KZZYN
+|   |   |---com.apple.TelephonyUtilities.plist
+|   |   |---com.apple.Terminal.plist
+|   |   |---com.apple.TextEdit.LSSharedFileList.plist
+|   |   |---com.apple.TextEdit.SandboxedPersistentURLs.LSSharedFileList.plist
+|   |   |---com.apple.ubd.plist
+|   |   |---com.apple.universalaccess.plist
+|   |   |---com.apple.UserAccountUpdater.plist
+|   |   |---com.apple.VoiceOver4
+|   |   |---com.apple.VoiceOver4.local.plist
+|   |   |---com.apple.WebFoundation.plist
+|   |   |---com.apple.wifi.keychain-format.plist
+|   |   |---com.apple.xpc.activity2.plist
+|   |   |---com.applied-acoustics.ll3.plist
+|   |   |---com.applied-acoustics.ss.plist
+|   |   |---com.applied-acoustics.strum-acoustic.plist
+|   |   |---com.applied-acoustics.strum-electric.plist
+|   |   |---com.applied-acoustics.t4.plist
+|   |   |---com.applied-acoustics.ua.plist
+|   |   |---com.arobas-music.gp5.plist
+|   |   |---com.arobas-music.Guitar Pro 6.plist
+|   |   |---com.arobas-music.GuitarPro.plist
+|   |   |---com.audioease.suite.altiverb5.plist
+|   |   |---com.avid.ProTools.plist
+|   |   |---com.bittorrent.uTorrent.plist
+|   |   |---com.Breakpad.crash_report_sender.plist
+|   |   |---com.canon.EOS Utility 2.plist
+|   |   |---com.canon.ImageBrowser.ColorManagement.plist
+|   |   |---com.canon.ImageBrowser.Friends.plist
+|   |   |---com.canon.ImageBrowser.plist
+|   |   |---com.canon.MCU.plist
+|   |   |---com.canon.Viewer.LSSharedFileList.plist
+|   |   |---com.cenxell.ramose.plist
+|   |   |---com.cod3r.a52codec.plist
+|   |   |---com.crystalidea.MacsFanControl.plist
+|   |   |---com.digidesign.Mini Grand.plist
+|   |   |---com.digidesign.ProTools.plist
+|   |   |---com.digidesign.xpand!.plist
+|   |   |---com.divx.Converter.plist
+|   |   |---com.divx.DivXMediaServer.plist
+|   |   |---com.divx.TranscodeEngine.plist
+|   |   |---com.divx.TransferWizard.plist
+|   |   |---com.divx.Update.plist
+|   |   |---com.ea.Origin.plist
+|   |   |---com.electron.phonegap.helper.plist
+|   |   |---com.electron.phonegap.plist
+|   |   |---com.ElggGroup.CentralMagic.plist
+|   |   |---com.etscedventures.2001dynamic.plist
+|   |   |---com.fabfilter.Micro.1.plist
+|   |   |---com.fabfilter.One.3.plist
+|   |   |---com.fabfilter.Pro-C.1.plist
+|   |   |---com.fabfilter.Pro-DS.1.plist
+|   |   |---com.fabfilter.Pro-G.1.plist
+|   |   |---com.fabfilter.Pro-L.1.plist
+|   |   |---com.fabfilter.Pro-MB.1.plist
+|   |   |---com.fabfilter.Pro-Q.1.plist
+|   |   |---com.fabfilter.Saturn.1.plist
+|   |   |---com.fabfilter.Simplon.1.plist
+|   |   |---com.fabfilter.Timeless.2.plist
+|   |   |---com.fabfilter.Twin.2.plist
+|   |   |---com.fabfilter.Volcano.2.plist
+|   |   |---com.FractalAudio.AxeEdit.plist
+|   |   |---com.fractalaudio.cablab.plist
+|   |   |---com.fractalaudio.fractalbot.plist
+|   |   |---com.github.GitHub.LSSharedFileList.plist
+|   |   |---com.github.GitHub.plist
+|   |   |---com.gobbler-dev.Gobbler2.UserDefaults.plist
+|   |   |---com.Gobbler.Gobbler2.plist
+|   |   |---com.Gobbler.Gobbler2Installer.plist
+|   |   |---com.google.Chrome.plist
+|   |   |---com.google.gct.plist
+|   |   |---com.google.Keystone.Agent.plist
+|   |   |---com.google.Keystone.Agent.plist.CpGJqzj
+|   |   |---com.hp.scanModule.plist
+|   |   |---com.inforapid.sector.plist
+|   |   |---com.intego.BackupAssistant.plist
+|   |   |---com.intel.nw.plist
+|   |   |---com.interejapan.softq.plist
+|   |   |---com.izotope.audioplugins.Ozone7.Authorizations.plist
+|   |   |---com.izotope.audioplugins.Ozone7.plist
+|   |   |---com.izotope.audioplugins.Ozone7DYN.plist
+|   |   |---com.izotope.audioplugins.Ozone7DYNEQ.plist
+|   |   |---com.izotope.audioplugins.Ozone7EQ.plist
+|   |   |---com.izotope.audioplugins.Ozone7EXC.plist
+|   |   |---com.izotope.audioplugins.Ozone7IMG.plist
+|   |   |---com.izotope.audioplugins.Ozone7MAX.plist
+|   |   |---com.izotope.audioplugins.Ozone7VCOMP.plist
+|   |   |---com.izotope.audioplugins.Ozone7VEQ.plist
+|   |   |---com.izotope.audioplugins.Ozone7VLIM.plist
+|   |   |---com.izotope.audioplugins.Ozone7VTAPE.plist
+|   |   |---com.izotope.Ozone7.Analytics.plist
+|   |   |---com.izotope.ozone7app.plist
+|   |   |---com.izotope.plist
+|   |   |---com.juce.theprojucer.LSSharedFileList.plist
+|   |   |---com.juce.theprojucer.plist
+|   |   |---com.kitware.CMakeSetup.plist
+|   |   |---com.kivuto.SecureDownloadManager.LSSharedFileList.plist
+|   |   |---com.kivuto.SecureDownloadManager.plist
+|   |   |---com.lacie.desktopmanager.plist
+|   |   |---com.leadertech.powerReg.plist
+|   |   |---com.macchampion.batchmod.plist
+|   |   |---com.macpaw.CleanMyMac3.KnowledgeBase.plist
+|   |   |---com.macpaw.CleanMyMac3.Menu.plist
+|   |   |---com.macpaw.CleanMyMac3.plist
+|   |   |---com.macpaw.CleanMyMac3.Scheduler.plist
+|   |   |---com.macroplant.adapter.plist
+|   |   |---com.makemusic.NotePad.plist
+|   |   |---com.maplesoft.maple.plist
+|   |   |---com.microsoft.autoupdate2.plist
+|   |   |---com.microsoft.DocumentConnection.plist
+|   |   |---com.microsoft.error_reporting.plist
+|   |   |---com.microsoft.Excel.plist
+|   |   |---com.microsoft.office.plist
+|   |   |---com.microsoft.office.setupassistant.plist
+|   |   |---com.microsoft.outlook.database_daemon.plist
+|   |   |---com.microsoft.outlook.databasedaemon.plist
+|   |   |---com.microsoft.outlook.office_reminders.plist
+|   |   |---com.microsoft.Outlook.plist
+|   |   |---com.microsoft.Powerpoint.plist
+|   |   |---com.microsoft.visualbasic.plist
+|   |   |---com.microsoft.VSCode.helper.plist
+|   |   |---com.microsoft.VSCode.LSSharedFileList.plist
+|   |   |---com.microsoft.VSCode.plist
+|   |   |---com.microsoft.Word.plist
+|   |   |---com.native-instruments.Abbey Road 60s Drums.plist
+|   |   |---com.native-instruments.Abbey Road 70s Drums.plist
+|   |   |---com.native-instruments.Abbey Road 80s Drums.plist
+|   |   |---com.native-instruments.Abbey Road Modern Drums.plist
+|   |   |---com.native-instruments.Absynth 5.plist
+|   |   |---com.native-instruments.Alicias Keys.plist
+|   |   |---com.native-instruments.Balinese Gamelan.plist
+|   |   |---com.native-instruments.Battery 3.plist
+|   |   |---com.native-instruments.Berlin Concert Grand.plist
+|   |   |---com.native-instruments.Controller Editor.plist
+|   |   |---com.native-instruments.Evolve Mutations 2.plist
+|   |   |---com.native-instruments.Evolve Mutations.plist
+|   |   |---com.native-instruments.FM8.plist
+|   |   |---com.native-instruments.George Duke Soul Treasures.plist
+|   |   |---com.native-instruments.Guitar Rig 5.plist
+|   |   |---com.native-instruments.Kontakt 5.plist
+|   |   |---com.native-instruments.Kontakt Factory Library.plist
+|   |   |---com.native-instruments.Kore2.plist
+|   |   |---com.native-instruments.Maschine Drum Selection.plist
+|   |   |---com.native-instruments.Massive.plist
+|   |   |---com.native-instruments.New York Concert Grand.plist
+|   |   |---com.native-instruments.Reaktor5.5.plist
+|   |   |---com.native-instruments.Scarbee Funk Guitarist.plist
+|   |   |---com.native-instruments.Scarbee Jay-Bass.plist
+|   |   |---com.native-instruments.Scarbee MM-Bass Amped.plist
+|   |   |---com.native-instruments.Scarbee MM-Bass.plist
+|   |   |---com.native-instruments.Scarbee Pre-Bass Amped.plist
+|   |   |---com.native-instruments.Scarbee Pre-Bass.plist
+|   |   |---com.native-instruments.Scarbee Vintage Keys.plist
+|   |   |---com.native-instruments.Session Strings Pro.plist
+|   |   |---com.native-instruments.Studio Drummer.plist
+|   |   |---com.native-instruments.Upright Piano.plist
+|   |   |---com.native-instruments.UserPatches.plist
+|   |   |---com.native-instruments.Vienna Concert Grand.plist
+|   |   |---com.native-instruments.Vintage Organs.plist
+|   |   |---com.native-instruments.West Africa.plist
+|   |   |---com.node-webkit-builder.isoplex.plist
+|   |   |---com.oracle.java.Java-Updater.plist
+|   |   |---com.oracle.java.JavaAppletPlugin.plist
+|   |   |---com.oracle.javadeployment.plist
+|   |   |---com.paceap.EdenExperience.plist
+|   |   |---com.paceap.iLokLicenseManager.plist
+|   |   |---com.peternoriega.unrarx.plist
+|   |   |---com.piriform.ccleaner.plist
+|   |   |---com.qtproject.plist
+|   |   |---com.REFTechnology.Zonesys.plist
+|   |   |---com.seagate.SGUpdate.plist
+|   |   |---com.seventhstring.transcribe.plist
+|   |   |---com.signcapital.serverclient.plist
+|   |   |---com.skype.skype.plist
+|   |   |---com.snoize.SysExLibrarian.plist
+|   |   |---com.sonicacademy.licenseinstaller.plist
+|   |   |---com.spotify.client.helper.plist
+|   |   |---com.spotify.client.plist
+|   |   |---com.systel.proboscis.plist
+|   |   |---com.teamviewer.TeamViewer.plist
+|   |   |---com.teamviewer.teamviewer.preferences.Machine.plist
+|   |   |---com.teamviewer.teamviewer.preferences.plist
+|   |   |---com.TeamViewer8.Settings.Machine.plist
+|   |   |---com.TeamViewer8.Settings.plist
+|   |   |---com.tegrausa.potato2.plist
+|   |   |---com.Tonywave.Tupelo.plist
+|   |   |---com.toontrack.ezmix2.plist
+|   |   |---com.toontrack.ezplayer.plist
+|   |   |---com.toontrack.superior.superior2.plist
+|   |   |---com.transgaming.tginstall-sims3-bg-ep08.plist
+|   |   |---com.transgaming.tginstall-sims3ep03-sku1.plist
+|   |   |---com.transgaming.tginstall-sims3ep05-sku1.plist
+|   |   |---com.transgaming.tginstall-sims3ep08-sku1.plist
+|   |   |---com.transgaming.tginstall-sims3sp1-sku7.plist
+|   |   |---com.transgaming.thesims3.plist
+|   |   |---com.transgaming.thesims3ep03.plist
+|   |   |---com.transgaming.thesims3ep08.plist
+|   |   |---com.transgaming.thesims3sp1.plist
+|   |   |---com.trolltech.plist
+|   |   |---com.Turbochrome.Craconic.plist
+|   |   |---com.unity3d.UnityEditor5.x.plist
+|   |   |---com.wavemachinelabs.drumagog5.plist
+|   |   |---com.Wayscopy.Inherence.plist
+|   |   |---DAE Prefs
+|   |   |---de.knup.arne.vstlord.plist
+|   |   |---DigiSetup.OSX
+|   |   |---Drumagog 5
+|   |   |---Finale 2012 Preferences
+|   |   |---ImageBrowserUserData
+|   |   |---io.brackets.appshell.plist
+|   |   |---jp.co.canon.ijscanner1.scanner.ica.plist
+|   |   |---jp.co.yamaha.THR-Editor.plist
+|   |   |---LennarDigital
+|   |   |---loginwindow.plist
+|   |   |---Macromedia
+|   |   |---Maple
+|   |   |---MobileMeAccounts.plist
+|   |   |---MobileMeAccounts.plist.sWImpza
+|   |   |---mono.plist
+|   |   |---MonoDevelop-Unity-5.0
+|   |   |---net.phere.GitX.LSSharedFileList.plist
+|   |   |---net.phere.GitX.plist
+|   |   |---net.spectrasonics.V2.plist
+|   |   |---NotePad 2012 Preferences
+|   |   |---NotePad 2012 Registration
+|   |   |---NotePad2012UpdateCheck.txt
+|   |   |---org.cef.cefclient.helper.plist
+|   |   |---org.cmake.cmake.plist
+|   |   |---org.codeblocks.app.plist
+|   |   |---org.cups.PrintingPrefs.plist
+|   |   |---org.eclipse.platform.ide.plist
+|   |   |---org.gnu.Emacs.plist
+|   |   |---org.kronenberg.Wine.plist
+|   |   |---org.kronenberg.WineBottler.plist
+|   |   |---org.kronenberg.WineBottler_EZ Mix keygen.plist
+|   |   |---org.kronenberg.WineBottler_My Wine App.plist
+|   |   |---org.libreoffice.script.LSSharedFileList.plist
+|   |   |---org.libreoffice.script.plist
+|   |   |---org.macosforge.xquartz.X11.plist
+|   |   |---org.mozilla.firefox.plist
+|   |   |---org.perian.Perian.plist
+|   |   |---org.python.PythonLauncher.LSSharedFileList.plist
+|   |   |---Pro Tools Prefs
+|   |   |---QuickTime Preferences
+|   |   |---rtcpal_registry.reg
+|   |   |---Shockwave 12 Preferences
+|   |   |---Sonic Academy
+|   |   |---ssd_sampler
+|   |   |---SysEx Librarian Library.sXLb
+|   |   |---The Sims 3 Preferences
+|   |   |---TL Metro PlugIn
+|   |   |---Transcribe!7 Preferences
+|   |   |---Unity
+|   |   |---unity.DefaultCompany.CISC_3660_Ibi Elementorum.plist
+|   |   |---unity.DefaultCompany.Game 1.plist
+|   |   |---UserEventAgent.plist
+|   |   |---UserEventAgent.plist.avc6kOY
+|   |   |---UserEventAgent.plist.gR8Bx3z
+|   |   |---UserEventAgent.plist.PPf00tc
+|   |   |---UserEventAgent.plist.X9PoVhz
+|   |   |---UserEventAgent.plist.Y8legYQ
+|   |   |---Waves Preferences
+|   |   |---widget-com.apple.widget.calendar.plist
+|   |   |---widget-com.apple.widget.weather.plist
+|   |   |---yeqwqauh Preferences
+|   |---Printers
+|   |   |---Brother HL-2270DW series.app
+|   |   |---Canon MP280 series-2.app
+|   |   |---Canon MP280 series.app
+|   |   |---Canon MX920 series.app
+|   |   |---HP Photosmart C4200 series.app
+|   |---PubSub
+|   |   |---Clients.plist
+|   |   |---Database
+|   |   |---Feeds
+|   |---Receipts
+|   |   |---com.bittorrent.uTorrent.bom
+|   |   |---com.bittorrent.uTorrent.plist
+|   |   |---com.spigot.Searchme.bom
+|   |   |---com.spigot.Searchme.plist
+|   |---Safari
+|   |   |---Bookmarks.plist
+|   |   |---Configurations.plist.signed
+|   |   |---Databases
+|   |   |---Downloads.plist
+|   |   |---Extensions
+|   |   |---Form Values
+|   |   |---History.db
+|   |   |---History.db-lock
+|   |   |---History.db-shm
+|   |   |---History.db-wal
+|   |   |---HistoryIndex.sk
+|   |   |---LastSession.plist
+|   |   |---LocalStorage
+|   |   |---LocationPermissions.plist
+|   |   |---PlugInOrigins.plist
+|   |   |---PlugInUpdateInfo.plist
+|   |   |---ReadingListArchives
+|   |   |---Safari Desktop Picture.jpg
+|   |   |---SearchDescriptions.plist
+|   |   |---TopSites.plist
+|   |   |---Touch Icons
+|   |   |---UserNotificationPermissions.plist
+|   |   |---WebpageIcons.db
+|   |---Saved Application State
+|   |   |---com.2dboy.wog.savedState
+|   |   |---com.activestate.KomodoIDE.savedState
+|   |   |---com.adobe.flashplayer.installmanager.savedState
+|   |   |---com.alsoft.diskwarrior.savedState
+|   |   |---com.amazon.Kindle.savedState
+|   |   |---com.amazon.music.savedState
+|   |   |---com.apple.appstore.savedState
+|   |   |---com.apple.BluetoothFileExchange.savedState
+|   |   |---com.apple.calculator.savedState
+|   |   |---com.apple.finder.savedState
+|   |   |---com.apple.iCal.savedState
+|   |   |---com.apple.iChat.savedState
+|   |   |---com.apple.InstallAssistant.Yosemite.savedState
+|   |   |---com.apple.iPhoto.savedState
+|   |   |---com.apple.Notes.savedState
+|   |   |---com.apple.Preview.savedState
+|   |   |---com.apple.ScriptEditor.id.CheckForUpdates.savedState
+|   |   |---com.apple.Terminal.savedState
+|   |   |---com.apple.TextEdit.savedState
+|   |   |---com.arobas-music.gp5.savedState
+|   |   |---com.arobas-music.GuitarPro.savedState
+|   |   |---com.avid.ProTools.savedState
+|   |   |---com.avira.controlcenter.savedState
+|   |   |---com.avira.uninstall.savedState
+|   |   |---com.bitrock.appinstaller.savedState
+|   |   |---com.digidesign.ProTools.savedState
+|   |   |---com.ea.Origin.savedState
+|   |   |---com.electron.phonegap.savedState
+|   |   |---com.evernote.Evernote.savedState
+|   |   |---com.FractalAudio.AxeEdit.savedState
+|   |   |---com.google.android.studio.savedState
+|   |   |---com.google.Chrome.savedState
+|   |   |---com.intel.nw.savedState
+|   |   |---com.izotope.audioplugins.Ozone7.savedState
+|   |   |---com.jagex.jagexappletviewer.savedState
+|   |   |---com.makemusic.NotePad.savedState
+|   |   |---com.microsoft.autoupdate2.savedState
+|   |   |---com.microsoft.Outlook.savedState
+|   |   |---com.microsoft.VSCode.savedState
+|   |   |---com.microsoft.Word.savedState
+|   |   |---com.netgear.NETGEARGenie.savedState
+|   |   |---com.node-webkit-builder.isoplex.savedState
+|   |   |---com.paceap.eden.iLokLicenseManager.savedState
+|   |   |---com.seventhstring.transcribe.savedState
+|   |   |---com.softube.Control_App_Release.savedState
+|   |   |---com.spotify.client.savedState
+|   |   |---com.valvesoftware.steam.savedState
+|   |   |---com.xamarin.monodevelop.savedState
+|   |   |---de.filezilla.savedState
+|   |   |---de.knup.arne.vstlord.savedState
+|   |   |---org.cmake.cmake.savedState
+|   |   |---org.codeblocks.app.savedState
+|   |   |---org.eclipse.platform.ide.savedState
+|   |   |---org.gnu.Emacs.savedState
+|   |   |---org.kronenberg.WineBottler.savedState
+|   |   |---org.macosforge.xquartz.X11.savedState
+|   |   |---org.python.IDLE.savedState
+|   |---Screen Savers
+|   |---Services
+|   |   |---.localized
+|   |---Sounds
+|   |---Spelling
+|   |   |---dynamic-counts.dat
+|   |   |---dynamic-text.dat
+|   |   |---LocalDictionary
+|   |---SyncedPreferences
+|   |   |---com.apple.cmfsyncagent.plist
+|   |   |---com.apple.finder.plist
+|   |   |---com.apple.Safari-com.apple.Safari.UserRequests.plist
+|   |   |---com.apple.Safari-com.apple.Safari.WebFeedSubscriptions.plist
+|   |   |---com.apple.Safari.plist
+|   |   |---com.apple.sbd.plist
+|   |   |---com.apple.security.cloudkeychainproxy3.plist
+|   |   |---com.apple.syncedpreferences.plist
+|   |   |---icbaccountsd.plist
+|   |---Unity
+|   |   |---Browser
+|   |   |---Certificates
+|   |   |---Packages
+|   |---Voices
+|   |---WebKit
+|   |   |---com.apple.Safari
+|   |   |---com.apple.systempreferences
+|   |   |---Databases
+|   |   |---LocalStorage
+|   |   |---MediaKeys
+|---Movies
+|   |---.DS_Store
+|   |---.localized
+|   |---CacheClip
+|   |   |---audio
+|   |---iMovie Camera Archives.localized
+|   |   |---.localized
+|   |---iMovie Library.imovielibrary
+|   |   |---.fcpcache
+|   |   |---.lock
+|   |   |---.lockinfo
+|   |   |---1-1-16
+|   |   |---__Sync__
+|   |   |---CurrentVersion.flexolibrary
+|   |   |---My Movie
+|   |   |---pdsplfdf
+|   |   |---Settings.plist
+|   |---iMovie Projects.localized
+|   |   |---.DS_Store
+|   |   |---.localized
+|   |   |---iMovie Library 1.imovielibrary
+|   |   |---My First Project.rcproject
+|   |   |---New Project.rcproject
+|   |---iMovie Theater.theater
+|   |   |---Archives - D4710EE2-BFBF-4C21-92C4-FEFFF5E943DA
+|   |   |---Media
+|   |   |---Seen Movies.plist
+|   |   |---Theater.json
+|   |   |---Thumbnails
+|   |---Movies
+|   |   |---.DS_Store
+|   |   |---.localized
+|   |   |---iMovie Events 2.localized
+|   |   |---iMovie Events.localized
+|   |   |---iMovie Projects.localized
+|---Music
+|   |---.DS_Store
+|   |---.localized
+|   |---Amazon Music
+|   |   |---.DS_Store
+|   |   |---Monuments
+|   |---Audio Music Apps
+|   |   |---Alchemy Samples
+|   |   |---Alchemy_Preset_Ratings_And_Tags.db.bak
+|   |   |---Channel Strip Settings
+|   |   |---Custom Icons
+|   |   |---Data Management Settings
+|   |   |---Databases
+|   |   |---Key Commands
+|   |   |---LoopsDatabaseV09.db
+|   |   |---Patches
+|   |   |---Plug-In Settings
+|   |   |---Project Templates
+|   |   |---Sampler Instruments
+|   |   |---Temp
+|   |---GarageBand
+|   |   |---.DS_Store
+|   |---iTunes
+|   |   |---.DS_Store
+|   |   |---Album Artwork
+|   |   |---iTunes Library Extras.itdb
+|   |   |---iTunes Library Genius.itdb
+|   |   |---iTunes Library.itl
+|   |   |---iTunes Media
+|   |   |---iTunes Music Library.xml
+|   |   |---Previous iTunes Libraries
+|   |   |---sentinel
+|   |---Logic
+|   |   |---.DS_Store
+|   |---Music
+|   |   |---.DS_Store
+|   |   |---.localized
+|   |   |---GarageBand
+|   |   |---iTunes
+|   |   |---Logic
+|   |---Ondesoft Audio Recorder
+|   |---Pro Tools
+|   |   |---.DS_Store
+|---MyCalendars
+|   |---aug.2014
+|   |---jul.2014
+|   |---jun.2014
+|   |---log
+|   |---logg
+|   |---myscript.exe
+|   |---myscript.exe~
+|   |---SUM.2014
+|   |---year2014
+|---package-lock.json
+|---Pictures
+|   |---.DS_Store
+|   |---.localized
+|   |---IMG_1593-2.CR2
+|   |---IMG_1595-2.CR2
+|   |---IMG_1596-2.CR2
+|   |---IMG_1598-2.CR2
+|   |---IMG_1599-2.CR2
+|   |---IMG_1602-2.CR2
+|   |---IMG_1603-2.CR2
+|   |---IMG_1604-2.CR2
+|   |---IMG_1605-2.CR2
+|   |---IMG_1606-2.CR2
+|   |---IMG_1607-2.CR2
+|   |---IMG_1608-2.CR2
+|   |---IMG_1610-2.CR2
+|   |---IMG_1613-2.CR2
+|   |---IMG_1614-2.CR2
+|   |---IMG_1615-2.CR2
+|   |---IMG_1616-2.CR2
+|   |---IMG_1617-2.CR2
+|   |---IMG_1619-2.CR2
+|   |---IMG_1620-2.CR2
+|   |---IMG_1621-2.CR2
+|   |---IMG_1622-2.CR2
+|   |---IMG_1623-2.CR2
+|   |---IMG_1624-2.CR2
+|   |---IMG_1625-2.CR2
+|   |---IMG_1626-2.CR2
+|   |---IMG_1627-2.CR2
+|   |---IMG_1628-2.CR2
+|   |---IMG_1629-2.CR2
+|   |---IMG_1631-2.CR2
+|   |---IMG_1632-2.CR2
+|   |---IMG_1633-2.CR2
+|   |---IMG_1634-2.CR2
+|   |---IMG_1731.CR2
+|   |---IMG_1731.JPG
+|   |---IMG_2001.CR2
+|   |---IMG_2001.JPG
+|   |---IMG_2003.CR2
+|   |---IMG_2003.JPG
+|   |---IMG_2004.CR2
+|   |---IMG_2004.JPG
+|   |---IMG_2007.CR2
+|   |---IMG_2007.JPG
+|   |---IMG_2008.CR2
+|   |---IMG_2008.JPG
+|   |---IMG_2009.CR2
+|   |---IMG_2009.JPG
+|   |---IMG_2010.CR2
+|   |---IMG_2010.JPG
+|   |---IMG_2011.CR2
+|   |---IMG_2011.JPG
+|   |---IMG_2012.CR2
+|   |---IMG_2012.JPG
+|   |---IMG_2013.CR2
+|   |---IMG_2013.JPG
+|   |---IMG_2014.CR2
+|   |---IMG_2014.JPG
+|   |---IMG_2015.CR2
+|   |---IMG_2015.JPG
+|   |---IMG_2016.CR2
+|   |---IMG_2016.JPG
+|   |---IMG_2017.CR2
+|   |---IMG_2017.JPG
+|   |---IMG_2018.CR2
+|   |---IMG_2018.JPG
+|   |---IMG_2019.CR2
+|   |---IMG_2019.JPG
+|   |---IMG_2020.CR2
+|   |---IMG_2020.JPG
+|   |---IMG_2021.CR2
+|   |---IMG_2021.JPG
+|   |---IMG_2022.CR2
+|   |---IMG_2022.JPG
+|   |---IMG_2023.CR2
+|   |---IMG_2023.JPG
+|   |---IMG_2024.CR2
+|   |---IMG_2024.JPG
+|   |---IMG_2025.CR2
+|   |---IMG_2025.JPG
+|   |---IMG_2026.CR2
+|   |---IMG_2026.JPG
+|   |---IMG_2027.CR2
+|   |---IMG_2027.JPG
+|   |---IMG_2030.CR2
+|   |---IMG_2030.JPG
+|   |---IMG_2033.CR2
+|   |---IMG_2033.JPG
+|   |---IMG_2042.CR2
+|   |---IMG_2042.JPG
+|   |---IMG_2044.CR2
+|   |---IMG_2044.JPG
+|   |---IMG_2045.CR2
+|   |---IMG_2045.JPG
+|   |---IMG_2249.CR2
+|   |---IMG_2249.JPG
+|   |---IMG_2252.CR2
+|   |---IMG_2252.JPG
+|   |---IMG_2253.CR2
+|   |---IMG_2253.JPG
+|   |---IMG_2261.CR2
+|   |---IMG_2261.JPG
+|   |---IMG_2262.CR2
+|   |---IMG_2262.JPG
+|   |---IMG_2263.CR2
+|   |---IMG_2263.JPG
+|   |---IMG_2265.CR2
+|   |---IMG_2265.JPG
+|   |---IMG_2273.CR2
+|   |---IMG_2273.JPG
+|   |---IMG_2277.CR2
+|   |---IMG_2277.JPG
+|   |---IMG_2278.CR2
+|   |---IMG_2278.JPG
+|   |---IMG_2279.CR2
+|   |---IMG_2279.JPG
+|   |---IMG_2281.CR2
+|   |---IMG_2281.JPG
+|   |---IMG_2282.CR2
+|   |---IMG_2282.JPG
+|   |---IMG_2283.CR2
+|   |---IMG_2283.JPG
+|   |---IMG_2284.CR2
+|   |---IMG_2284.JPG
+|   |---IMG_2285.CR2
+|   |---IMG_2285.JPG
+|   |---IMG_2286.CR2
+|   |---IMG_2286.JPG
+|   |---IMG_2287.CR2
+|   |---IMG_2287.JPG
+|   |---IMG_2288.CR2
+|   |---IMG_2288.JPG
+|   |---IMG_2289.CR2
+|   |---IMG_2289.JPG
+|   |---IMG_2290.CR2
+|   |---IMG_2290.JPG
+|   |---IMG_2291.CR2
+|   |---IMG_2291.JPG
+|   |---IMG_2292.CR2
+|   |---IMG_2292.JPG
+|   |---IMG_2293.CR2
+|   |---IMG_2293.JPG
+|   |---IMG_2294.CR2
+|   |---IMG_2294.JPG
+|   |---iPhoto Library.photolibrary
+|   |   |---AlbumData.xml
+|   |   |---Attachments
+|   |   |---Auto Import
+|   |   |---Database
+|   |   |---iLifeShared
+|   |   |---Info.plist
+|   |   |---iPhoto.ipspot
+|   |   |---iPhotoAux.db
+|   |   |---iPhotoLock.data
+|   |   |---iPhotoMain.db
+|   |   |---Library.data
+|   |   |---Library.iPhoto
+|   |   |---Library6.iPhoto
+|   |   |---Masters
+|   |   |---Previews
+|   |   |---ProjectDBVersion.plist
+|   |   |---Projects.db
+|   |   |---Thumbnails
+|   |---MP Navigator EX
+|   |---Photo Booth Library
+|   |   |---Backdrops
+|   |   |---Contents
+|   |   |---Originals
+|   |   |---Pictures
+|   |   |---Recents.plist
+|   |---Photo on 10-21-14 at 2.01 AM.jpg
+|   |---Photos Library.photoslibrary
+|   |   |---Attachments
+|   |   |---Database
+|   |   |---iPhoto.ipspot
+|   |   |---iPhotoAux.db
+|   |   |---iPhotoLock.data
+|   |   |---iPhotoMain.db
+|   |   |---Library.data
+|   |   |---Library.iPhoto
+|   |   |---Library6.iPhoto
+|   |   |---Masks
+|   |   |---Masters
+|   |   |---Plugins
+|   |   |---Previews
+|   |   |---private
+|   |   |---ProjectDBVersion.plist
+|   |   |---Projects.db
+|   |   |---repairOnLaunch
+|   |   |---resources
+|   |   |---Thumbnails
+|   |---Pictures
+|   |   |---.DS_Store
+|   |   |---.localized
+|   |   |---avid_logo_blue_images_stencil_1920x1200.jpg
+|   |   |---DSCN0341.JPG
+|   |   |---DSCN0363.JPG
+|   |   |---DSCN0365.JPG
+|   |   |---DSCN0402.JPG
+|   |   |---DSCN0406.JPG
+|   |   |---DSCN0417.JPG
+|   |   |---iChat Icons
+|   |   |---iPhoto Library
+|   |   |---iPhoto Library Recovered Photos
+|   |   |---iPhoto Library Recovered Photos_2
+|   |   |---iPod Photo Cache
+|   |   |---Photo Booth
+|   |   |---Screen Shot 2015-02-23 at 8.26.40 PM.png
+|---Public
+|   |---.localized
+|   |---Drop Box
+|   |   |---.localized
+
