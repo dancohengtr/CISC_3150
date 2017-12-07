@@ -1,0 +1,15 @@
+Plugin1.java
+Plugin2.java
+2 plugins were found. Type in a number and we'll execute that index of plugin!
+1
+plugin.Plugin1
+You say bye!
+I say hello!
+2
+plugin.Plugin2
+I say bye!
+You say hello!
+0
+Not a valid index!
+e
+You've exited the program
